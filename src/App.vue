@@ -14,19 +14,32 @@
         <el-button type="primary" icon="el-icon-search">搜索</el-button>
       </el-row>
     </div>
- 
+    <div>
+        <rank-item 
+          :rank="1" 
+          flag="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+          countryName="美利坚合众国" 
+          :gold="40" 
+          :silver="44" 
+          :bronze="42" 
+          :total="126"
+          @add="onAdd">
+        </rank-item>
+      </div>
     <!-- 日期选择器 -->
     <DatePicker></DatePicker>
     <!-- 文件上传 -->
     <UploadFile></UploadFile>
+    
   </div>
+  
 </template>
  
 <script>
   // 导入组件
   import DatePicker from './components/DatePicker.vue'
   import UploadFile from './components/UploadFile.vue'
- 
+  import RankItem from './components/RankItem.vue';
 export default {
   name: 'app',
   data () {
