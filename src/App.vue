@@ -10,7 +10,7 @@
         :gold="item.gold"
         :silver="item.silver"
         :bronze="item.bronze"
-        :total="item.total"
+        :total="item.count"
         @add="onAdd"
       />
     </div>
