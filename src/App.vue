@@ -1,38 +1,56 @@
 <template>
   <div id="app">
- 
     <div class="container">
-    <RankItem
-      :rank="1"
-      flag="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
-      countryName="美利坚合众国"
-      :gold="40"
-      :silver="44"
-      :bronze="42"
-      :total="126"
-      @add="onAdd"
-    />
+      <RankItem
+        v-for="(item, index) in items"
+        :key="index"
+        :rank="item.rank"
+        :flag="item.flag"
+        :countryName="item.countryname"
+        :gold="item.gold"
+        :silver="item.silver"
+        :bronze="item.bronze"
+        :total="item.total"
+        @add="onAdd"
+      />
+    </div>
   </div>
-    
-  </div>
-  
 </template>
- 
+
 <script>
-  // 导入组件
-  import RankItem from './components/RankItem.vue';
+import RankItem from './components/RankItem.vue';
+import axios from 'axios';
+
 export default {
   name: 'app',
   data () {
     return {
+      items: []
     }
   },
-  components:{
+  components: {
     RankItem
+  },
+  mounted() {
+    this.fetchRankList();
+  },
+  methods: {
+    async fetchRankList() {
+      try {
+        const response = await axios.get('./json/medal.json'); // 确保路径正确
+        console.log('Rank list:', response.data);
+        this.items = response.data;
+      } catch (error) {
+        console.error('Error fetching rank list:', error);
+      }
+    },
+    onAdd() {
+      console.log('Add event triggered');
+    }
   }
 }
 </script>
- 
+
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
@@ -42,21 +60,21 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
- 
+
 h1, h2 {
   font-weight: normal;
 }
- 
+
 ul {
   list-style-type: none;
   padding: 0;
 }
- 
+
 li {
   display: inline-block;
   margin: 0 10px;
 }
- 
+
 a {
   color: #42b983;
 }
