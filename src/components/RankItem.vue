@@ -67,7 +67,7 @@ export default {
   border-radius: 8px;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
   margin-bottom: 5px;
-  
+  font-weight: bold;
 }
 
 .flag-img {
