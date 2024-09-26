@@ -49,24 +49,26 @@
 
 <script>
 export default {
-    data() {
-        return {
-            match: {
-                time: "21:00",
-                event: "足球 - 男子C组 (#5)",
-                team1: {
-                    name: "乌兹别克斯坦",
-                    flag: "./country_images/FRA.png",
-                    score: 1,
-                },
-                team2: {
-                    name: "西班牙",
-                    flag: "./country_images/FRA.png",
-                    score: 2,
-                },
-            },
-        };
+    props: {
+    match: {
+      type: Object,
+      required: true,
+      default: () => ({
+        time: "21:00",
+        event: "足球 - 男子C组 (#5)",
+        team1: {
+          name: "乌兹别克斯坦",
+          flag: "./country_images/FRA.png",
+          score: 1,
+        },
+        team2: {
+          name: "西班牙",
+          flag: "./country_images/FRA.png",
+          score: 2,
+        },
+      }),
     },
+  },
 };
 </script>
 
