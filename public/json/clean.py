@@ -24,7 +24,7 @@ def extract_data(data):
         # 存储每个单位的基本信息
         event_info = {
             "disciplineName": discipline_name,
-            "eventUnitName#unitNum": combined_key,
+            "eventName": combined_key,
             "startDate": adjusted_time,
             "competitors": []
         }
