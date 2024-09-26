@@ -1,0 +1,78 @@
+[
+    {
+        "disciplineName": "射击",
+        "event": "混合团体10米气步枪赛前训练#",
+        "startDate": "15:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射击",
+        "event": "男子10米气手枪赛前训练#",
+        "startDate": "16:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射击",
+        "event": "女子10米气手枪赛前训练#",
+        "startDate": "17:45",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "开幕式",
+        "event": "#",
+        "startDate": "02:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    }
+]

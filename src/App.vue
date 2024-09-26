@@ -6,7 +6,7 @@
     <!-- 使用 MatchTableItem 组件并传递 props -->
 
     <div class="container">
-      <MatchTableItem v-for="(item, index) in items" :key="index" :time="item.startDate" :event="item.event" :disciplineName="item.disciplineName"      
+      <MatchTableItem v-for="(item, index) in items" :key="index" :time="item.startDate" :event="item.event" :name="item.disciplineName"      
         :team1="{
         name: item.competitors[0].name,
         flag: item.competitors[0].noc,
@@ -35,7 +35,7 @@ export default {
   },
   data() {
     return {
-      selectedDate: '0725',
+      selectedDate: '0724',
       items: []
     };
   },
@@ -46,6 +46,7 @@ export default {
     handleDateSelected(date) {
       const formattedDate = date.replace(/月|日/g, '').padStart(4, '0');
       this.selectedDate = formattedDate;
+      this.fetchMatchList(); 
     },
     async fetchMatchList() {
       try {

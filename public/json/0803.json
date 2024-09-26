@@ -1,0 +1,3631 @@
+[
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体32强淘汰赛#1",
+        "startDate": "14:00",
+        "competitors": [
+            {
+                "noc": "./country_images/ESP.png",
+                "name": "西班牙",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/EOR.png",
+                "name": "奥林匹克难民代表团",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体32强淘汰赛#1",
+        "startDate": "14:00",
+        "competitors": [
+            {
+                "noc": "./country_images/MGL.png",
+                "name": "蒙古",
+                "mark": "3",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/ISR.png",
+                "name": "以色列",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "羽毛球",
+        "event": "女子单打1/4决赛#",
+        "startDate": "14:30",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体16强淘汰赛#2",
+        "startDate": "14:42",
+        "competitors": [
+            {
+                "noc": "./country_images/NED.png",
+                "name": "荷兰",
+                "mark": "2",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/SRB.png",
+                "name": "塞尔维亚",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体32强淘汰赛#2",
+        "startDate": "14:42",
+        "competitors": [
+            {
+                "noc": "./country_images/ITA.png",
+                "name": "意大利",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/HUN.png",
+                "name": "匈牙利",
+                "mark": "1",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "射击",
+        "event": "男子双向飞碟资格赛 - 第2天#",
+        "startDate": "15:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射击",
+        "event": "女子双向飞碟资格赛 - 第1天#",
+        "startDate": "15:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "手球",
+        "event": "女子预赛B组#25",
+        "startDate": "15:00",
+        "competitors": [
+            {
+                "noc": "./country_images/HUN.png",
+                "name": "匈牙利",
+                "mark": "26",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/NED.png",
+                "name": "荷兰",
+                "mark": "30",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "排球",
+        "event": "女子预赛 - C组#13",
+        "startDate": "15:00",
+        "competitors": [
+            {
+                "noc": "./country_images/NED.png",
+                "name": "荷兰",
+                "mark": "1",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/DOM.png",
+                "name": "多米尼加",
+                "mark": "3",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "沙滩排球",
+        "event": "男子预赛 - C组#33",
+        "startDate": "15:00",
+        "competitors": [
+            {
+                "noc": "./country_images/GER.png",
+                "name": "EHLERS/WICKLER",
+                "mark": "2",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/POL.png",
+                "name": "BRYL/LOSIAK",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "高尔夫",
+        "event": "男子第3回合#",
+        "startDate": "15:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体16强淘汰赛#3",
+        "startDate": "15:24",
+        "competitors": [
+            {
+                "noc": "./country_images/JPN.png",
+                "name": "日本",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/ESP.png",
+                "name": "西班牙",
+                "mark": "3",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体16强淘汰赛#3",
+        "startDate": "15:24",
+        "competitors": [
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/ISR.png",
+                "name": "以色列",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "射击",
+        "event": "女子25米手枪决赛#",
+        "startDate": "15:30",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人1/8淘汰赛#145",
+        "startDate": "15:30",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "赛艇",
+        "event": "女子单人双桨决赛C#",
+        "startDate": "15:30",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "羽毛球",
+        "event": "女子单打1/4决赛#",
+        "startDate": "15:40",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "赛艇",
+        "event": "男子单人双桨决赛C#",
+        "startDate": "15:42",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人1/8淘汰赛#146",
+        "startDate": "15:43",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "赛艇",
+        "event": "女子单人双桨决赛B#",
+        "startDate": "15:54",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人1/8淘汰赛#147",
+        "startDate": "15:56",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "曲棍球",
+        "event": "女子分组循环赛B组#W25",
+        "startDate": "16:00",
+        "competitors": [
+            {
+                "noc": "./country_images/GBR.png",
+                "name": "英国",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/ARG.png",
+                "name": "阿根廷",
+                "mark": "3",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "沙滩排球",
+        "event": "男子预赛 - C组#27",
+        "startDate": "16:00",
+        "competitors": [
+            {
+                "noc": "./country_images/AUS.png",
+                "name": "HODGES/SCHUBERT",
+                "mark": "2",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "BASSEREAU/LYNEEL",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "马术",
+        "event": "团体盛装舞步特别大奖赛#",
+        "startDate": "16:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "男子十项全能110米跨栏#",
+        "startDate": "16:05",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体16强淘汰赛#4",
+        "startDate": "16:06",
+        "competitors": [
+            {
+                "noc": "./country_images/GER.png",
+                "name": "德国",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/AUT.png",
+                "name": "奥地利",
+                "mark": "1",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体16强淘汰赛#4",
+        "startDate": "16:06",
+        "competitors": [
+            {
+                "noc": "./country_images/KOR.png",
+                "name": "韩国",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/TUR.png",
+                "name": "土耳其",
+                "mark": "1",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "赛艇",
+        "event": "男子单人双桨决赛B#",
+        "startDate": "16:06",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人1/8淘汰赛#148",
+        "startDate": "16:09",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "男子撑竿跳高资格赛#",
+        "startDate": "16:10",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "赛艇",
+        "event": "女子单人双桨决赛A#",
+        "startDate": "16:18",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人1/8淘汰赛#149",
+        "startDate": "16:22",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "曲棍球",
+        "event": "女子分组循环赛A组#W26",
+        "startDate": "16:30",
+        "competitors": [
+            {
+                "noc": "./country_images/NED.png",
+                "name": "荷兰",
+                "mark": "5",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/JPN.png",
+                "name": "日本",
+                "mark": "1",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "水球",
+        "event": "男子预赛B组#19",
+        "startDate": "16:30",
+        "competitors": [
+            {
+                "noc": "./country_images/ESP.png",
+                "name": "西班牙",
+                "mark": "23",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/JPN.png",
+                "name": "日本",
+                "mark": "8",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人1/8淘汰赛#150",
+        "startDate": "16:35",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "男子100米预赛#",
+        "startDate": "16:35",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人1/8淘汰赛#151",
+        "startDate": "16:48",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体16强淘汰赛#5",
+        "startDate": "16:48",
+        "competitors": [
+            {
+                "noc": "./country_images/KAZ.png",
+                "name": "哈萨克斯坦",
+                "mark": "2",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/BRA.png",
+                "name": "巴西",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体16强淘汰赛#5",
+        "startDate": "16:48",
+        "competitors": [
+            {
+                "noc": "./country_images/GEO.png",
+                "name": "格鲁吉亚",
+                "mark": "3",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/ITA.png",
+                "name": "意大利",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "羽毛球",
+        "event": "女子单打1/4决赛#",
+        "startDate": "16:50",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "赛艇",
+        "event": "女子八人单桨有舵手决赛A#",
+        "startDate": "16:50",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "男子十项全能铁饼 - A组#",
+        "startDate": "16:55",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "公路自行车",
+        "event": "男子公路赛#",
+        "startDate": "17:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射击",
+        "event": "男子25米手枪速射赛前训练#",
+        "startDate": "17:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "手球",
+        "event": "女子预赛B组#26",
+        "startDate": "17:00",
+        "competitors": [
+            {
+                "noc": "./country_images/ESP.png",
+                "name": "西班牙",
+                "mark": "24",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "32",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "沙滩排球",
+        "event": "女子预赛 - D组#28",
+        "startDate": "17:00",
+        "competitors": [
+            {
+                "noc": "./country_images/SUI.png",
+                "name": "ESMEE/ZOE",
+                "mark": "2",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/PAR.png",
+                "name": "POLETTI/MICHELLE",
+                "mark": "1",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "游泳",
+        "event": "女子50米自由泳分组预赛#",
+        "startDate": "17:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "篮球",
+        "event": "女子小组赛 - A组#29",
+        "startDate": "17:00",
+        "competitors": [
+            {
+                "noc": "./country_images/CHN.png",
+                "name": "中国",
+                "mark": "80",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/PUR.png",
+                "name": "波多黎各",
+                "mark": "58",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人1/8淘汰赛#152",
+        "startDate": "17:01",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "赛艇",
+        "event": "男子八人单桨有舵手决赛A#",
+        "startDate": "17:10",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "女子800米复活赛#",
+        "startDate": "17:20",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体1/4决赛#6",
+        "startDate": "17:30",
+        "competitors": [
+            {
+                "noc": "./country_images/JPN.png",
+                "name": "日本",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/SRB.png",
+                "name": "塞尔维亚",
+                "mark": "1",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体16强淘汰赛#6",
+        "startDate": "17:30",
+        "competitors": [
+            {
+                "noc": "./country_images/UZB.png",
+                "name": "乌兹别克斯坦",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/CAN.png",
+                "name": "加拿大",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "游泳",
+        "event": "男子1500米自由泳分组预赛#",
+        "startDate": "17:30",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "赛艇",
+        "event": "男子单人双桨决赛A#",
+        "startDate": "17:30",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "男子100米第1轮#",
+        "startDate": "17:55",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "沙滩排球",
+        "event": "女子预赛 - F组#30",
+        "startDate": "18:00",
+        "competitors": [
+            {
+                "noc": "./country_images/ESP.png",
+                "name": "ALVAREZ M/MORENO",
+                "mark": "2",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/GER.png",
+                "name": "LUDWIG/LIPPMANN",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "网球",
+        "event": "男子双打金牌赛#",
+        "startDate": "18:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "网球",
+        "event": "男子双打铜牌赛#",
+        "startDate": "18:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "网球",
+        "event": "女子单打金牌赛#",
+        "startDate": "18:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "网球",
+        "event": "男子单打铜牌赛#",
+        "startDate": "18:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "羽毛球",
+        "event": "女子单打1/4决赛#",
+        "startDate": "18:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "女子帆船激光雷迪尔级 - 比赛04#",
+        "startDate": "18:05",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "水球",
+        "event": "男子预赛A组#20",
+        "startDate": "18:05",
+        "competitors": [
+            {
+                "noc": "./country_images/CRO.png",
+                "name": "克罗地亚",
+                "mark": "14",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/GRE.png",
+                "name": "希腊",
+                "mark": "13",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "男子十项全能铁饼 - B组#",
+        "startDate": "18:05",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体1/4决赛#7",
+        "startDate": "18:12",
+        "competitors": [
+            {
+                "noc": "./country_images/GER.png",
+                "name": "德国",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/BRA.png",
+                "name": "巴西",
+                "mark": "3",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体1/4决赛#7",
+        "startDate": "18:12",
+        "competitors": [
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/KOR.png",
+                "name": "韩国",
+                "mark": "1",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "女子水翼帆板iQFoil级1/4决赛#",
+        "startDate": "18:13",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "男子帆船激光级- 比赛05#",
+        "startDate": "18:20",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "男子水翼帆板iQFoil级1/4决赛#",
+        "startDate": "18:33",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "游泳",
+        "event": "男子4x100米混合泳接力分组预赛#",
+        "startDate": "18:40",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "曲棍球",
+        "event": "女子分组循环赛B组#W27",
+        "startDate": "18:45",
+        "competitors": [
+            {
+                "noc": "./country_images/AUS.png",
+                "name": "澳大利亚",
+                "mark": "3",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/ESP.png",
+                "name": "西班牙",
+                "mark": "1",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "游泳",
+        "event": "女子4x100米混合泳接力分组预赛#",
+        "startDate": "18:52",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "女子水翼帆板iQFoil级半决赛#",
+        "startDate": "18:53",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体复活赛#8",
+        "startDate": "18:54",
+        "competitors": [
+            {
+                "noc": "./country_images/SRB.png",
+                "name": "塞尔维亚",
+                "mark": "1",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/BRA.png",
+                "name": "巴西",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体1/4决赛#8",
+        "startDate": "18:54",
+        "competitors": [
+            {
+                "noc": "./country_images/ITA.png",
+                "name": "意大利",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/UZB.png",
+                "name": "乌兹别克斯坦",
+                "mark": "2",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "击剑",
+        "event": "女子团体佩剑8强#",
+        "startDate": "19:00",
+        "competitors": [
+            {
+                "noc": "./country_images/ALG.png",
+                "name": "阿尔及利亚",
+                "mark": "32",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "45",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "击剑",
+        "event": "女子团体佩剑8强#",
+        "startDate": "19:00",
+        "competitors": [
+            {
+                "noc": "./country_images/KOR.png",
+                "name": "韩国",
+                "mark": "45",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/USA.png",
+                "name": "美国",
+                "mark": "35",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "击剑",
+        "event": "女子团体佩剑8强#",
+        "startDate": "19:00",
+        "competitors": [
+            {
+                "noc": "./country_images/ITA.png",
+                "name": "意大利",
+                "mark": "37",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/UKR.png",
+                "name": "乌克兰",
+                "mark": "45",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "击剑",
+        "event": "女子团体佩剑8强#",
+        "startDate": "19:00",
+        "competitors": [
+            {
+                "noc": "./country_images/HUN.png",
+                "name": "匈牙利",
+                "mark": "37",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/JPN.png",
+                "name": "日本",
+                "mark": "45",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人1/4决赛#153",
+        "startDate": "19:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "排球",
+        "event": "女子预赛 - B组#14",
+        "startDate": "19:00",
+        "competitors": [
+            {
+                "noc": "./country_images/JPN.png",
+                "name": "日本",
+                "mark": "3",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/KEN.png",
+                "name": "肯尼亚",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "男女混合帆船诺卡拉17级 - 比赛01#",
+        "startDate": "19:05",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人1/4决赛#154",
+        "startDate": "19:13",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "女子帆船激光雷迪尔级 - 比赛05#",
+        "startDate": "19:13",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "曲棍球",
+        "event": "女子分组循环赛B组#W28",
+        "startDate": "19:15",
+        "competitors": [
+            {
+                "noc": "./country_images/USA.png",
+                "name": "美国",
+                "mark": "1",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/RSA.png",
+                "name": "南非",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "男子水翼帆板iQFoil级半决赛#",
+        "startDate": "19:18",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人1/4决赛#155",
+        "startDate": "19:26",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "男子帆船激光级- 比赛06#",
+        "startDate": "19:28",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "乒乓球",
+        "event": "女子单打铜牌赛#66",
+        "startDate": "19:30",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "篮球",
+        "event": "女子小组赛 - A组#30",
+        "startDate": "19:30",
+        "competitors": [
+            {
+                "noc": "./country_images/SRB.png",
+                "name": "塞尔维亚",
+                "mark": "62",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/ESP.png",
+                "name": "西班牙",
+                "mark": "70",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "女子水翼帆板iQFoil级决赛#",
+        "startDate": "19:33",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体半决赛A#9",
+        "startDate": "19:36",
+        "competitors": [
+            {
+                "noc": "./country_images/JPN.png",
+                "name": "日本",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/GER.png",
+                "name": "德国",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体复活赛#9",
+        "startDate": "19:36",
+        "competitors": [
+            {
+                "noc": "./country_images/KOR.png",
+                "name": "韩国",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/UZB.png",
+                "name": "乌兹别克斯坦",
+                "mark": "2",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人1/4决赛#156",
+        "startDate": "19:39",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "男子十项全能撑杆跳高#",
+        "startDate": "19:40",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人半决赛#157",
+        "startDate": "19:52",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "男女混合帆船诺卡拉17级 - 比赛02#",
+        "startDate": "19:57",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "手球",
+        "event": "女子预赛B组#27",
+        "startDate": "20:00",
+        "competitors": [
+            {
+                "noc": "./country_images/BRA.png",
+                "name": "巴西",
+                "mark": "30",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/ANG.png",
+                "name": "安哥拉",
+                "mark": "19",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体半决赛B#10",
+        "startDate": "20:00",
+        "competitors": [
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/ITA.png",
+                "name": "意大利",
+                "mark": "1",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "男子水翼帆板iQFoil级决赛#",
+        "startDate": "20:03",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人半决赛#158",
+        "startDate": "20:05",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "女子帆船激光雷迪尔级 - 比赛06#",
+        "startDate": "20:21",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "乒乓球",
+        "event": "女子单打金牌赛#67",
+        "startDate": "20:30",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "击剑",
+        "event": "女子团体佩剑5-8名排名赛#",
+        "startDate": "20:30",
+        "competitors": [
+            {
+                "noc": "./country_images/USA.png",
+                "name": "美国",
+                "mark": "45",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/ALG.png",
+                "name": "阿尔及利亚",
+                "mark": "28",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "击剑",
+        "event": "女子团体佩剑5-8名排名赛#",
+        "startDate": "20:30",
+        "competitors": [
+            {
+                "noc": "./country_images/HUN.png",
+                "name": "匈牙利",
+                "mark": "45",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/ITA.png",
+                "name": "意大利",
+                "mark": "35",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人铜牌赛#159",
+        "startDate": "20:33",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "射箭",
+        "event": "女子个人金牌赛#160",
+        "startDate": "20:46",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "男女混合帆船诺卡拉17级 - 比赛03#",
+        "startDate": "20:49",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "水球",
+        "event": "男子预赛B组#21",
+        "startDate": "21:00",
+        "competitors": [
+            {
+                "noc": "./country_images/AUS.png",
+                "name": "澳大利亚",
+                "mark": "9",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/HUN.png",
+                "name": "匈牙利",
+                "mark": "8",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "羽毛球",
+        "event": "女子双打铜牌赛#",
+        "startDate": "21:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "足球",
+        "event": "女子1/4决赛#20",
+        "startDate": "21:00",
+        "competitors": [
+            {
+                "noc": "./country_images/USA.png",
+                "name": "美国",
+                "mark": "1",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "./country_images/JPN.png",
+                "name": "日本",
+                "mark": "0",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "击剑",
+        "event": "女子团体佩剑半决赛1#",
+        "startDate": "21:20",
+        "competitors": [
+            {
+                "noc": "./country_images/KOR.png",
+                "name": "韩国",
+                "mark": "45",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "36",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "击剑",
+        "event": "女子团体佩剑半决赛2#",
+        "startDate": "21:20",
+        "competitors": [
+            {
+                "noc": "./country_images/UKR.png",
+                "name": "乌克兰",
+                "mark": "45",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/JPN.png",
+                "name": "日本",
+                "mark": "32",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "射击",
+        "event": "男子双向飞碟决赛#",
+        "startDate": "21:30",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "男子57公斤级 - 1/4决赛#173",
+        "startDate": "21:30",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "皮划艇激流回旋",
+        "event": "女子极限皮艇第1轮#",
+        "startDate": "21:30",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "竞技体操",
+        "event": "男子自由体操决赛#",
+        "startDate": "21:30",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "男女混合帆船470级 - 比赛03#",
+        "startDate": "21:45",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "男子57公斤级 - 1/4决赛#174",
+        "startDate": "21:46",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "手球",
+        "event": "女子预赛A组#28",
+        "startDate": "22:00",
+        "competitors": [
+            {
+                "noc": "./country_images/SLO.png",
+                "name": "斯洛文尼亚",
+                "mark": "23",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/SWE.png",
+                "name": "瑞典",
+                "mark": "27",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体铜牌赛A#33",
+        "startDate": "22:00",
+        "competitors": [
+            {
+                "noc": "./country_images/BRA.png",
+                "name": "巴西",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/ITA.png",
+                "name": "意大利",
+                "mark": "3",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "沙滩排球",
+        "event": "女子预赛 - F组#36",
+        "startDate": "22:00",
+        "competitors": [
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "PLACETTE/RICHARD",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/SUI.png",
+                "name": "HUBERLI/BRUNNER",
+                "mark": "2",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "男子71公斤级 - 1/4决赛#175",
+        "startDate": "22:02",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "击剑",
+        "event": "女子团体佩剑5-6名赛#",
+        "startDate": "22:10",
+        "competitors": [
+            {
+                "noc": "./country_images/HUN.png",
+                "name": "匈牙利",
+                "mark": "39",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/USA.png",
+                "name": "美国",
+                "mark": "45",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "击剑",
+        "event": "女子团体佩剑7-8名赛#",
+        "startDate": "22:10",
+        "competitors": [
+            {
+                "noc": "./country_images/ITA.png",
+                "name": "意大利",
+                "mark": "45",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/ALG.png",
+                "name": "阿尔及利亚",
+                "mark": "27",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "羽毛球",
+        "event": "女子双打金牌赛#",
+        "startDate": "22:10",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "男子71公斤级 - 1/4决赛#176",
+        "startDate": "22:18",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "竞技体操",
+        "event": "女子跳马决赛#",
+        "startDate": "22:20",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "女子50公斤级 - 1/4决赛#177",
+        "startDate": "22:34",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "水球",
+        "event": "男子预赛A组#22",
+        "startDate": "22:35",
+        "competitors": [
+            {
+                "noc": "./country_images/MNE.png",
+                "name": "黑山",
+                "mark": "7",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/USA.png",
+                "name": "美国",
+                "mark": "12",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "皮划艇激流回旋",
+        "event": "男子极限皮艇第1轮#",
+        "startDate": "22:40",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体铜牌赛B#34",
+        "startDate": "22:42",
+        "competitors": [
+            {
+                "noc": "./country_images/KOR.png",
+                "name": "韩国",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/GER.png",
+                "name": "德国",
+                "mark": "3",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "女子50公斤级 - 1/4决赛#178",
+        "startDate": "22:50",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "帆船",
+        "event": "男女混合帆船470级 - 比赛04#",
+        "startDate": "22:52",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "排球",
+        "event": "男子预赛 - B组#17",
+        "startDate": "23:00",
+        "competitors": [
+            {
+                "noc": "./country_images/POL.png",
+                "name": "波兰",
+                "mark": "1",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/ITA.png",
+                "name": "意大利",
+                "mark": "3",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "曲棍球",
+        "event": "女子分组循环赛A组#W29",
+        "startDate": "23:00",
+        "competitors": [
+            {
+                "noc": "./country_images/CHN.png",
+                "name": "中国",
+                "mark": "7",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "1",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "沙滩排球",
+        "event": "女子预赛 - D组#34",
+        "startDate": "23:00",
+        "competitors": [
+            {
+                "noc": "./country_images/CAN.png",
+                "name": "MELISSA/BRANDIE",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/LAT.png",
+                "name": "TINA/ANASTASIJA",
+                "mark": "2",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "足球",
+        "event": "女子1/4决赛#21",
+        "startDate": "23:00",
+        "competitors": [
+            {
+                "noc": "./country_images/ESP.png",
+                "name": "西班牙",
+                "mark": "2",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/COL.png",
+                "name": "哥伦比亚",
+                "mark": "2",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "女子66公斤级 - 1/4决赛#179",
+        "startDate": "23:06",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "篮球",
+        "event": "男子小组赛 - C组#31",
+        "startDate": "23:15",
+        "competitors": [
+            {
+                "noc": "./country_images/PUR.png",
+                "name": "波多黎各",
+                "mark": "83",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/USA.png",
+                "name": "美国",
+                "mark": "104",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "竞技体操",
+        "event": "男子鞍马决赛#",
+        "startDate": "23:16",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "女子66公斤级 - 1/4决赛#180",
+        "startDate": "23:22",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "柔道",
+        "event": "混合团体决赛#35",
+        "startDate": "23:24",
+        "competitors": [
+            {
+                "noc": "./country_images/JPN.png",
+                "name": "日本",
+                "mark": "3",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "4",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "三人篮球",
+        "event": "女子分组循环赛#49",
+        "startDate": "23:30",
+        "competitors": [
+            {
+                "noc": "./country_images/AZE.png",
+                "name": "阿塞拜疆",
+                "mark": "19",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/CAN.png",
+                "name": "加拿大",
+                "mark": "21",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "女子60公斤级 - 半决赛#181",
+        "startDate": "23:38",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "三人篮球",
+        "event": "女子分组循环赛#50",
+        "startDate": "00:00",
+        "competitors": [
+            {
+                "noc": "./country_images/ESP.png",
+                "name": "西班牙",
+                "mark": "15",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/GER.png",
+                "name": "德国",
+                "mark": "18",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "沙滩排球",
+        "event": "男子幸运失败者赛#38",
+        "startDate": "00:00",
+        "competitors": [
+            {
+                "noc": "./country_images/CAN.png",
+                "name": "SCHACHTER/DEARING",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/CHI.png",
+                "name": "M.GRIMALT/E.GRIMALT",
+                "mark": "2",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "皮划艇激流回旋",
+        "event": "女子极限皮艇复活赛#",
+        "startDate": "00:05",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "三人篮球",
+        "event": "女子分组循环赛#51",
+        "startDate": "00:35",
+        "competitors": [
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "18",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/AUS.png",
+                "name": "澳大利亚",
+                "mark": "16",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "皮划艇激流回旋",
+        "event": "男子极限皮艇复活赛#",
+        "startDate": "00:45",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "击剑",
+        "event": "女子团体佩剑铜牌赛#",
+        "startDate": "01:00",
+        "competitors": [
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "40",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/JPN.png",
+                "name": "日本",
+                "mark": "45",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "手球",
+        "event": "女子预赛A组#29",
+        "startDate": "01:00",
+        "competitors": [
+            {
+                "noc": "./country_images/NOR.png",
+                "name": "挪威",
+                "mark": "30",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/GER.png",
+                "name": "德国",
+                "mark": "18",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "足球",
+        "event": "女子1/4决赛#22",
+        "startDate": "01:00",
+        "competitors": [
+            {
+                "noc": "./country_images/CAN.png",
+                "name": "加拿大",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/GER.png",
+                "name": "德国",
+                "mark": "0",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "三人篮球",
+        "event": "女子分组循环赛#52",
+        "startDate": "01:05",
+        "competitors": [
+            {
+                "noc": "./country_images/CHN.png",
+                "name": "中国",
+                "mark": "12",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/USA.png",
+                "name": "美国",
+                "mark": "14",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "男子十项全能标枪 - A组#",
+        "startDate": "01:10",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "男子1500米复活赛#",
+        "startDate": "01:15",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "水球",
+        "event": "男子预赛B组#23",
+        "startDate": "01:30",
+        "competitors": [
+            {
+                "noc": "./country_images/SRB.png",
+                "name": "塞尔维亚",
+                "mark": "15",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "8",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "男子铅球决赛#",
+        "startDate": "01:35",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "曲棍球",
+        "event": "女子分组循环赛A组#W30",
+        "startDate": "01:45",
+        "competitors": [
+            {
+                "noc": "./country_images/GER.png",
+                "name": "德国",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/BEL.png",
+                "name": "比利时",
+                "mark": "2",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "女子100米半决赛#",
+        "startDate": "01:50",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "击剑",
+        "event": "女子团体佩剑金牌赛#",
+        "startDate": "02:00",
+        "competitors": [
+            {
+                "noc": "./country_images/KOR.png",
+                "name": "韩国",
+                "mark": "42",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/UKR.png",
+                "name": "乌克兰",
+                "mark": "45",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "男子57公斤级 - 1/4决赛#182",
+        "startDate": "02:00",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "男子十项全能标枪 - B组#",
+        "startDate": "02:10",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "男子57公斤级 - 1/4决赛#183",
+        "startDate": "02:16",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "女子三级跳远决赛#",
+        "startDate": "02:20",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "游泳",
+        "event": "男子100米蝶泳决赛#",
+        "startDate": "02:30",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "男子71公斤级 - 1/4决赛#184",
+        "startDate": "02:32",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "游泳",
+        "event": "女子50米自由泳半决赛#",
+        "startDate": "02:39",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "男子71公斤级 - 1/4决赛#185",
+        "startDate": "02:48",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "4x400米混合接力决赛#",
+        "startDate": "02:55",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "手球",
+        "event": "女子预赛A组#30",
+        "startDate": "03:00",
+        "competitors": [
+            {
+                "noc": "./country_images/DEN.png",
+                "name": "丹麦",
+                "mark": "28",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/KOR.png",
+                "name": "韩国",
+                "mark": "20",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "排球",
+        "event": "男子预赛 - A组#18",
+        "startDate": "03:00",
+        "competitors": [
+            {
+                "noc": "./country_images/CAN.png",
+                "name": "加拿大",
+                "mark": "2",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/SRB.png",
+                "name": "塞尔维亚",
+                "mark": "3",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "沙滩排球",
+        "event": "女子幸运失败者赛#38",
+        "startDate": "03:00",
+        "competitors": [
+            {
+                "noc": "./country_images/JPN.png",
+                "name": "AKIKO/ISHII",
+                "mark": "2",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "PLACETTE/RICHARD",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "篮球",
+        "event": "男子小组赛 - C组#32",
+        "startDate": "03:00",
+        "competitors": [
+            {
+                "noc": "./country_images/SRB.png",
+                "name": "塞尔维亚",
+                "mark": "96",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/SSD.png",
+                "name": "南苏丹",
+                "mark": "85",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "足球",
+        "event": "女子1/4决赛#19",
+        "startDate": "03:00",
+        "competitors": [
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/BRA.png",
+                "name": "巴西",
+                "mark": "1",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "女子50公斤级 - 1/4决赛#186",
+        "startDate": "03:04",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "水球",
+        "event": "男子预赛A组#24",
+        "startDate": "03:05",
+        "competitors": [
+            {
+                "noc": "./country_images/ITA.png",
+                "name": "意大利",
+                "mark": "18",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/ROU.png",
+                "name": "罗马尼亚",
+                "mark": "7",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "游泳",
+        "event": "女子200米个人混合泳决赛#",
+        "startDate": "03:08",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "女子50公斤级 - 1/4决赛#187",
+        "startDate": "03:20",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "女子100米决赛#",
+        "startDate": "03:20",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "游泳",
+        "event": "女子800米自由泳决赛#",
+        "startDate": "03:28",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "三人篮球",
+        "event": "女子晋级附加赛#57",
+        "startDate": "03:30",
+        "competitors": [
+            {
+                "noc": "./country_images/CAN.png",
+                "name": "加拿大",
+                "mark": "21",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/AUS.png",
+                "name": "澳大利亚",
+                "mark": "10",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "女子66公斤级 - 1/4决赛#188",
+        "startDate": "03:36",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "田径",
+        "event": "男子十项全能1500米#",
+        "startDate": "03:45",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "女子66公斤级 - 1/4决赛#189",
+        "startDate": "03:52",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "游泳",
+        "event": "男女混合4x100米混合泳接力决赛#",
+        "startDate": "03:58",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "沙滩排球",
+        "event": "女子幸运失败者赛#37",
+        "startDate": "04:00",
+        "competitors": [
+            {
+                "noc": "./country_images/CAN.png",
+                "name": "MELISSA/BRANDIE",
+                "mark": "2",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/CZE.png",
+                "name": "HERMANNOVA/STOCHLOVA",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "三人篮球",
+        "event": "女子晋级附加赛#59",
+        "startDate": "04:05",
+        "competitors": [
+            {
+                "noc": "./country_images/USA.png",
+                "name": "美国",
+                "mark": "21",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/CHN.png",
+                "name": "中国",
+                "mark": "13",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "拳击",
+        "event": "女子60公斤级 - 半决赛#190",
+        "startDate": "04:08",
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            }
+        ]
+    },
+    {
+        "disciplineName": "沙滩排球",
+        "event": "男子幸运失败者赛#37",
+        "startDate": "05:00",
+        "competitors": [
+            {
+                "noc": "./country_images/AUS.png",
+                "name": "HODGES/SCHUBERT",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/USA.png",
+                "name": "EVANS/BUDINGER",
+                "mark": "2",
+                "winnerLoserTie": "W"
+            }
+        ]
+    }
+]

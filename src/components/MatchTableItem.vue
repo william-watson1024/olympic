@@ -9,7 +9,7 @@
                 <div class="event-container">
                     <div class="event">
                         <div class="event-name">
-                            {{ this.edisciplineNamevent}}
+                            {{ this.edisciplineName}}
                             <div class="right-align">
                                 <img src="@/assets/logo/collect.png" alt="collect.png" class="icon" />
                                 <img src="@/assets/logo/more.png" alt="more.png" class="icon" />
@@ -58,7 +58,7 @@ export default {
       type: String,
       default: "男子C组 (#5)"
     },
-    edisciplineNamevent: {
+    edisciplineName: {
       type: String,
       default: "足球"
     },

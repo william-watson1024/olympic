@@ -3,8 +3,8 @@ import os
 from datetime import datetime, timedelta
 
 # 定义文件路径
-input_file = '0725.json'
-output_file = '0725.json'
+input_file = '0811.json'
+output_file = '0811.json'
 
 # 定义时区调整（+6 小时）
 TIMEZONE_OFFSET = 6
@@ -24,7 +24,7 @@ def extract_data(data):
         # 存储每个单位的基本信息
         event_info = {
             "disciplineName": discipline_name,
-            "eventUnitName#unitNum": combined_key,
+            "event": combined_key,
             "startDate": adjusted_time,
             "competitors": []
         }
@@ -100,6 +100,6 @@ def main():
         # 将提取的数据写入新的 JSON 文件
         write_json(extracted_data, output_file)
 
-# 执行主函数 修改
+# 执行主函数
 if __name__ == "__main__":
     main()
