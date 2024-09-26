@@ -149,7 +149,7 @@ export default {
   display: flex;
   flex-direction: row;
   align-items: center;
-  padding: 50px;
+  padding: 50px ;
 }
 
 .image-container {

@@ -6,18 +6,18 @@
     <!-- 使用 MatchTableItem 组件并传递 props -->
 
     <div class="container">
-      <MatchTableItem v-for="(item, index) in items" :key="index" :time="item.startDate" :event="item.event" :edisciplineName="item.disciplineName"      
+      <MatchTableItem v-for="(item, index) in items" :key="index" :time="item.startDate" :event="item.event" :edisciplineName="item.disciplineName"     
         :team1="{
         name: item.competitors[0].name,
         flag: item.competitors[0].noc,
         score: item.competitors[0].mark,
-        winnerLoserTie : item.competitors[0].winnerLoserTie,
+        winnerLoserTie : item.competitors[0].winnerLoserTie
         }"
         :team2="{
         name: item.competitors[1].name,
         flag: item.competitors[1].noc,
         score: item.competitors[1].mark,
-        winnerLoserTie : item.competitors[1].winnerLoserTie,
+        winnerLoserTie : item.competitors[0].winnerLoserTie
         }"
       >
       </MatchTableItem>

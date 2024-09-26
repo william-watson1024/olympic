@@ -1,5 +1,6 @@
 <template>
     <div class="container">
+
         <div class="match-container">
             <!-- 第一行：比赛时间和比赛项目 -->
             <div class="match-header">
@@ -9,35 +10,36 @@
                 <div class="event-container">
                     <div class="event">
                         <div class="event-name">
-                            {{ this.edisciplineName}}
+                            {{ this.edisciplineName }}
                             <div class="right-align">
                                 <img src="@/assets/logo/collect.png" alt="collect.png" class="icon" />
                                 <img src="@/assets/logo/more.png" alt="more.png" class="icon" />
                             </div>
                         </div>
-                        <div class="event-details">{{ this.event}}</div>
+                        <div class="event-details">{{ this.event }}</div>
                     </div>
                 </div>
             </div>
 
 
-            <div class="match-header">
+            <div class="match-header" v-if="this.team1.flag !== '' && this.team2.flag !== ''">
                 <div class="blank-container">
                 </div>
                 <!-- 第二行：对战双方国家和得分 -->
-                <div class="match-body">
-
-                    <div class="teamcontainer">
+                <div class="match-body" >
+                    <div class="teamcontainer" >
                         <div class="team">
                             <img :src="this.team1.flag" alt="Team 1 Flag" class="flag" />
-                            <span class="team-name">{{ this.team1.name }}</span>
+                            <span :class="{'team-name': true, 'bold': this.team1.winnerLoserTie === 'W'}">{{ this.team1.name }}</span>
+                            <span class="team-winnerLoserTie">{{ this.team1.winnerLoserTie }}</span>
                         </div>
                         <div class="score">{{ this.team1.score }}</div>
                     </div>
-                    <div class="teamcontainer">
+                    <div class="teamcontainer" v-if="this.team1.flag && this.team2.flag">
                         <div class="team">
                             <img :src="this.team2.flag" alt="Team 2 Flag" class="flag" />
-                            <span class="team-name">{{ this.team2.name }}</span>
+                            <span :class="{'team-name': true, 'bold': this.team2.winnerLoserTie === 'W'}">{{ this.team2.name }}</span>
+                            <span class="team-winnerLoserTie">{{ this.team2.winnerLoserTie }}</span>
                         </div>
                         <div class="score">{{ this.team2.score }}</div>
                     </div>
@@ -51,28 +53,30 @@
 export default {
     props: {
         time: {
-      type: String,
-      default: "21:00"
-    },
-    event: {
-      type: String,
-      default: "男子C组 (#5)"
-    },
-    edisciplineName: {
-      type: String,
-      default: "足球"
-    },
+            type: String,
+            default: "21:00"
+        },
+        event: {
+            type: String,
+            default: "男子C组 (#5)"
+        },
+        edisciplineName: {
+            type: String,
+            default: "足球"
+        },
         team1: {
-          name: "乌兹别克斯坦",
-          flag: "./country_images/FRA.png",
-          score: 1,
+            name: "乌兹别克斯坦",
+            flag: "./country_images/FRA.png",
+            score: 1,
+            winnerLoserTie : 0,
         },
         team2: {
-          name: "西班牙",
-          flag: "./country_images/FRA.png",
-          score: 2,
+            name: "西班牙",
+            flag: "./country_images/FRA.png",
+            score: 2,
+            winnerLoserTie : 1,
         }
-  },
+    },
 };
 </script>
 
@@ -178,7 +182,7 @@ export default {
     margin-left: 10px;
     display: flex;
     align-items: center;
-    
+
 }
 
 .flag {
@@ -186,11 +190,19 @@ export default {
     height: auto;
     margin-right: 10px;
 }
-
+.bold{
+    font-size:13px;
+    font-weight: bold;
+}
 .score {
     font-size: 10px;
     text-align: center;
     margin-right: 20px;
     font-weight: bold;
+}
+.team-winnerLoserTie{
+    font-size: 10px;
+    text-align: center;
+    margin-left: 10px;
 }
 </style>
