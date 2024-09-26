@@ -1,5 +1,233 @@
 [
     {
+        "disciplineName": "手球",
+        "event": "女子预赛B组#5",
+        "startDate": "01:00",
+        "competitors": [
+            {
+                "noc": "./country_images/HUN.png",
+                "name": "匈牙利",
+                "mark": "28",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "31",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "足球",
+        "event": "女子B组#4",
+        "startDate": "01:00",
+        "competitors": [
+            {
+                "noc": "./country_images/GER.png",
+                "name": "德国",
+                "mark": "3",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/AUS.png",
+                "name": "澳大利亚",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "足球",
+        "event": "女子C组#6",
+        "startDate": "01:00",
+        "competitors": [
+            {
+                "noc": "./country_images/NGR.png",
+                "name": "尼日利亚",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/BRA.png",
+                "name": "巴西",
+                "mark": "1",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "七人制橄榄球",
+        "event": "男子9-12名排名赛#M19",
+        "startDate": "02:00",
+        "competitors": [
+            {
+                "noc": "./country_images/SAM.png",
+                "name": "萨摩亚",
+                "mark": "42",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/JPN.png",
+                "name": "日本",
+                "mark": "7",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "七人制橄榄球",
+        "event": "男子9-12名排名赛#M20",
+        "startDate": "02:30",
+        "competitors": [
+            {
+                "noc": "./country_images/URU.png",
+                "name": "乌拉圭",
+                "mark": "14",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/KEN.png",
+                "name": "肯尼亚",
+                "mark": "19",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "七人制橄榄球",
+        "event": "男子1/4决赛#M21",
+        "startDate": "03:00",
+        "competitors": [
+            {
+                "noc": "./country_images/NZL.png",
+                "name": "新西兰",
+                "mark": "7",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/RSA.png",
+                "name": "南非",
+                "mark": "14",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "手球",
+        "event": "女子预赛A组#6",
+        "startDate": "03:00",
+        "competitors": [
+            {
+                "noc": "./country_images/NOR.png",
+                "name": "挪威",
+                "mark": "28",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/SWE.png",
+                "name": "瑞典",
+                "mark": "32",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "足球",
+        "event": "女子A组#1",
+        "startDate": "03:00",
+        "competitors": [
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "3",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/COL.png",
+                "name": "哥伦比亚",
+                "mark": "2",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "足球",
+        "event": "女子B组#3",
+        "startDate": "03:00",
+        "competitors": [
+            {
+                "noc": "./country_images/USA.png",
+                "name": "美国",
+                "mark": "3",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/ZAM.png",
+                "name": "赞比亚",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "七人制橄榄球",
+        "event": "男子1/4决赛#M22",
+        "startDate": "03:30",
+        "competitors": [
+            {
+                "noc": "./country_images/ARG.png",
+                "name": "阿根廷",
+                "mark": "14",
+                "winnerLoserTie": "L"
+            },
+            {
+                "noc": "./country_images/FRA.png",
+                "name": "法国",
+                "mark": "26",
+                "winnerLoserTie": "W"
+            }
+        ]
+    },
+    {
+        "disciplineName": "七人制橄榄球",
+        "event": "男子1/4决赛#M23",
+        "startDate": "04:00",
+        "competitors": [
+            {
+                "noc": "./country_images/FIJ.png",
+                "name": "斐济",
+                "mark": "19",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/IRL.png",
+                "name": "爱尔兰",
+                "mark": "15",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
+        "disciplineName": "七人制橄榄球",
+        "event": "男子1/4决赛#M24",
+        "startDate": "04:30",
+        "competitors": [
+            {
+                "noc": "./country_images/AUS.png",
+                "name": "澳大利亚",
+                "mark": "18",
+                "winnerLoserTie": "W"
+            },
+            {
+                "noc": "./country_images/USA.png",
+                "name": "美国",
+                "mark": "0",
+                "winnerLoserTie": "L"
+            }
+        ]
+    },
+    {
         "disciplineName": "射击",
         "event": "混合团体10米气步枪赛前训练#",
         "startDate": "15:00",
@@ -41,25 +269,6 @@
         "disciplineName": "射击",
         "event": "女子10米气手枪赛前训练#",
         "startDate": "17:45",
-        "competitors": [
-            {
-                "noc": "",
-                "name": "",
-                "mark": "",
-                "winnerLoserTie": ""
-            },
-            {
-                "noc": "",
-                "name": "",
-                "mark": "",
-                "winnerLoserTie": ""
-            }
-        ]
-    },
-    {
-        "disciplineName": "开幕式",
-        "event": "#",
-        "startDate": "02:00",
         "competitors": [
             {
                 "noc": "",
