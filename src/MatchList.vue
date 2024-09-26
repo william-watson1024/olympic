@@ -22,6 +22,7 @@
       >
       </MatchTableItem>
     </div>
+    <div style="height: 200px;">  </div>
   </div>
 </template>
 
@@ -81,7 +82,6 @@ export default {
   background-size: cover; /* 背景图片覆盖整个容器 */
   background-position: center; /* 背景图片居中 */
   background-attachment: fixed; /* 背景图片固定 */
-
 }
 h1, h2 {
   font-weight: normal;
