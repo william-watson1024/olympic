@@ -80,6 +80,7 @@ export default {
 .container {
     display: flex;
     justify-content: center;
+    margin-bottom: 20px;
     /* 水平居中 */
 }
 
@@ -98,7 +99,8 @@ export default {
     border-radius: 5px;
     font-size: 10px;
     width: 600px;
-
+    background: #ffffff;
+    opacity: 0.95;
 }
 
 .teamcontainer {

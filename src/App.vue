@@ -1,8 +1,7 @@
 <template>
-  <div>
+  <div class="backgrouond">
     <div>
       <DatePicker @date-selected="handleDateSelected" />
-      <p>选中的日期是: {{ selectedDate }}</p>
     </div>
     <!-- 使用 MatchTableItem 组件并传递 props -->
 
@@ -18,7 +17,8 @@
         flag: item.competitors[1].noc,
         score: item.competitors[1].mark
         }"
-        />
+      >
+      </MatchTableItem>
     </div>
   </div>
 </template>
@@ -72,11 +72,16 @@ export default {
   font-size: 14px;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  
 }
+.backgrouond{
+  background-image: url('@/assets/background/football.jpeg'); /* 设置背景图片 */
+  background-size: cover; /* 背景图片覆盖整个容器 */
+  background-position: center; /* 背景图片居中 */
+  background-attachment: fixed; /* 背景图片固定 */
 
-h1,
-h2 {
+}
+h1, h2 {
   font-weight: normal;
 }
 
