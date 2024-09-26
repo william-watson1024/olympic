@@ -4,18 +4,18 @@
             <!-- 第一行：比赛时间和比赛项目 -->
             <div class="match-header">
                 <div class="time-container">
-                    <div class="time">{{ match.time }}</div>
+                    <div class="time">{{ this.time }}</div>
                 </div>
                 <div class="event-container">
                     <div class="event">
                         <div class="event-name">
-                            {{ match.event.split(" - ")[0] }}
+                            {{ this.edisciplineNamevent}}
                             <div class="right-align">
                                 <img src="@/assets/logo/collect.png" alt="collect.png" class="icon" />
                                 <img src="@/assets/logo/more.png" alt="more.png" class="icon" />
                             </div>
                         </div>
-                        <div class="event-details">{{ match.event.split(" - ")[1] }}</div>
+                        <div class="event-details">{{ this.event}}</div>
                     </div>
                 </div>
             </div>
@@ -29,17 +29,17 @@
 
                     <div class="teamcontainer">
                         <div class="team">
-                            <img :src="match.team1.flag" alt="Team 1 Flag" class="flag" />
-                            <span class="team-name">{{ match.team1.name }}</span>
+                            <img :src="this.team1.flag" alt="Team 1 Flag" class="flag" />
+                            <span class="team-name">{{ this.team1.name }}</span>
                         </div>
-                        <div class="score">{{ match.team1.score }}</div>
+                        <div class="score">{{ this.team1.score }}</div>
                     </div>
                     <div class="teamcontainer">
                         <div class="team">
-                            <img :src="match.team2.flag" alt="Team 2 Flag" class="flag" />
-                            <span class="team-name">{{ match.team2.name }}</span>
+                            <img :src="this.team2.flag" alt="Team 2 Flag" class="flag" />
+                            <span class="team-name">{{ this.team2.name }}</span>
                         </div>
-                        <div class="score">{{ match.team2.score }}</div>
+                        <div class="score">{{ this.team2.score }}</div>
                     </div>
                 </div>
             </div>
@@ -50,12 +50,18 @@
 <script>
 export default {
     props: {
-    match: {
-      type: Object,
-      required: true,
-      default: () => ({
-        time: "21:00",
-        event: "足球 - 男子C组 (#5)",
+        time: {
+      type: String,
+      default: "21:00"
+    },
+    event: {
+      type: String,
+      default: "男子C组 (#5)"
+    },
+    edisciplineNamevent: {
+      type: String,
+      default: "足球"
+    },
         team1: {
           name: "乌兹别克斯坦",
           flag: "./country_images/FRA.png",
@@ -65,9 +71,7 @@ export default {
           name: "西班牙",
           flag: "./country_images/FRA.png",
           score: 2,
-        },
-      }),
-    },
+        }
   },
 };
 </script>
@@ -76,6 +80,7 @@ export default {
 .container {
     display: flex;
     justify-content: center;
+    margin-bottom: 20px;
     /* 水平居中 */
 }
 
@@ -94,7 +99,8 @@ export default {
     border-radius: 5px;
     font-size: 10px;
     width: 600px;
-
+    background: #ffffff;
+    opacity: 0.95;
 }
 
 .teamcontainer {

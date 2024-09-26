@@ -81,6 +81,9 @@ export default {
     this.fetchRankList();
   },
   methods: {
+    onAdd() {
+      console.log('Add event triggered');
+    },
     async fetchRankList() {
       try {
         const response = await axios.get('./json/medal.json'); // 确保路径正确
@@ -90,9 +93,6 @@ export default {
         console.error('Error fetching rank list:', error);
       }
     },
-    onAdd() {
-      console.log('Add event triggered');
-    }
   }
 }
 </script>
@@ -105,10 +105,10 @@ export default {
   font-size: 14px;
   text-align: center;
   color: #2c3e50;
-  background-image: url('@/assets/background/sea.jpg'); /* 设置背景图片 */
-  background-size: cover; /* 背景图片覆盖整个容器 */
-  background-position: center; /* 背景图片居中 */
-  background-attachment: fixed; /* 背景图片固定 */
+  background-image: url('@/assets/background/sea.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-attachment: fixed; 
 }
 
 .container {
