@@ -96,6 +96,7 @@ export default {
 .date-picker-wrapper {
   overflow: hidden;
   cursor: grab;
+  margin-bottom: 50px;
 }
 
 .date-picker-container {

@@ -28,7 +28,16 @@ export default {
     handleDateSelected(date) {
       const formattedDate = date.replace(/月|日/g, '').padStart(4, '0');
       this.selectedDate = formattedDate;
-    }
+    },
+    async fetchRankList() {
+      try {
+        const response = await axios.get('./json/medal.json'); // 确保路径正确
+        console.log('Rank list:', response.data);
+        this.items = response.data;
+      } catch (error) {
+        console.error('Error fetching rank list:', error);
+      }
+    },
   }
 };
 </script>
