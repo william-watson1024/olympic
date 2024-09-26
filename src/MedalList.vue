@@ -81,15 +81,6 @@ export default {
     this.fetchRankList();
   },
   methods: {
-    async fetchRankList() {
-      try {
-        const response = await axios.get('./json/medal.json'); // 确保路径正确
-        console.log('Rank list:', response.data);
-        this.items = response.data;
-      } catch (error) {
-        console.error('Error fetching rank list:', error);
-      }
-    },
     onAdd() {
       console.log('Add event triggered');
     }
