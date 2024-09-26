@@ -70,6 +70,7 @@ export default {
   color: white;
   text-decoration: none;
   font-size: 18px;
+  padding: 40px;
 }
 
 .search-container {
