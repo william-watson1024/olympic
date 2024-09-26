@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 # 定义文件路径
 input_file = '0725.json'
-output_file = '0725.json'
+output_file = '0725_output.json'
 
 # 定义时区调整（+6 小时）
 TIMEZONE_OFFSET = 6
@@ -16,38 +16,35 @@ def extract_data(data):
     for unit in data.get("units", []):
         discipline_name = unit.get("disciplineName", "")
         event_unit_name = unit.get("eventUnitName", "")
-        unit_num = unit.get("unitNum", "")
         start_date = unit.get("startDate", "")
         adjusted_time = adjust_time(start_date)  # 调整时间
-        combined_key = f"{event_unit_name}#{unit_num}"  # 将"eventUnitName"和"unitNum"连接
 
-        # 存储每个单位的基本信息
+        # 创建 event 的基本信息
         event_info = {
             "disciplineName": discipline_name,
-            "eventName": combined_key,
+            "event": event_unit_name,  # 使用 eventUnitName
             "startDate": adjusted_time,
             "competitors": []
         }
 
-        # 只处理 "eventUnitType" 等于 "HTEAM" 的数据
-        if unit.get("eventUnitType", "") == "HTEAM":
-            for competitor in unit.get("competitors", []):
-                noc = competitor.get("noc", "")
-                name = competitor.get("name", "")
-                results = competitor.get("results", {})
-                mark = results.get("mark", "")
-                winner_loser_tie = results.get("winnerLoserTie", "")
+        # 处理 "competitors" 数据
+        for competitor in unit.get("competitors", []):
+            noc = competitor.get("noc", "")
+            name = competitor.get("name", "")
+            results = competitor.get("results", {})
+            mark = results.get("mark", "")
+            winner_loser_tie = results.get("winnerLoserTie", "")
 
-                # 转换 noc 为国旗图像路径格式
-                noc_image_path = f"./country_images/{noc}.png"
+            # 转换 noc 为国旗图像路径格式
+            noc_image_path = f"./country_images/{noc}.png" if noc else ""
 
-                # 添加 competitor 数据
-                event_info["competitors"].append({
-                    "noc": noc_image_path,  # 使用国旗图像路径代替 noc
-                    "name": name,
-                    "mark": mark,
-                    "winnerLoserTie": winner_loser_tie
-                })
+            # 添加 competitor 数据
+            event_info["competitors"].append({
+                "noc": noc_image_path,  # 使用国旗图像路径代替 noc
+                "name": name,
+                "mark": mark,
+                "winnerLoserTie": winner_loser_tie
+            })
         
         # 将每个 event 的信息加入结果列表
         result_list.append(event_info)
@@ -100,6 +97,6 @@ def main():
         # 将提取的数据写入新的 JSON 文件
         write_json(extracted_data, output_file)
 
-# 执行主函数 修改
+# 执行主函数
 if __name__ == "__main__":
     main()

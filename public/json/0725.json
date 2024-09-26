@@ -1,8 +1,7 @@
 [
     {
         "disciplineName": "手球",
-        "eventUnitName": "女子预赛A组#1",
-        "eventName": "女子预赛A组#1",
+        "event": "女子预赛A组#1",
         "startDate": "15:00",
         "competitors": [
             {
@@ -21,14 +20,26 @@
     },
     {
         "disciplineName": "射箭",
-        "eventName": "女子个人排名赛#",
+        "event": "女子个人排名赛#",
         "startDate": "15:30",
-        "competitors": []
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie":""
+            }
+        ]
     },
     {
         "disciplineName": "手球",
-        "eventName": "女子预赛B组#2",
-        "eventUnitName": "女子预赛B组#2",
+        "event": "女子预赛B组#2",
         "startDate": "17:00",
         "competitors": [
             {
@@ -47,8 +58,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventName": "男子分组循环赛B组#M13",
-        "eventUnitName": "男子分组循环赛B组#M13",
+        "event": "男子分组循环赛B组#M13",
         "startDate": "20:00",
         "competitors": [
             {
@@ -67,8 +77,7 @@
     },
     {
         "disciplineName": "手球",
-        "eventUnitName": "女子预赛B组#3",
-        "eventName": "女子预赛B组#3",
+        "event": "女子预赛B组#3",
         "startDate": "20:00",
         "competitors": [
             {
@@ -87,14 +96,26 @@
     },
     {
         "disciplineName": "射箭",
-        "eventName": "男子个人排名赛#",
+        "event": "男子个人排名赛#",
         "startDate": "20:15",
-        "competitors": []
+        "competitors": [
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie": ""
+            },
+            {
+                "noc": "",
+                "name": "",
+                "mark": "",
+                "winnerLoserTie":""
+            }
+        ]
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventName": "男子分组循环赛B组#M14",
-        "eventUnitName": "男子分组循环赛B组#M14",
+        "event": "男子分组循环赛B组#M14",
         "startDate": "20:30",
         "competitors": [
             {
@@ -113,8 +134,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventName": "男子分组循环赛C组#M15",
-        "eventUnitName": "男子分组循环赛C组#M15",
+        "event": "男子分组循环赛C组#M15",
         "startDate": "21:00",
         "competitors": [
             {
@@ -133,8 +153,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventName": "男子分组循环赛C组#M16",
-        "eventUnitName": "男子分组循环赛C组#M16",
+        "event": "男子分组循环赛C组#M16",
         "startDate": "21:30",
         "competitors": [
             {
@@ -153,8 +172,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventName": "男子分组循环赛A组#M17",
-        "eventUnitName": "男子分组循环赛A组#M17",
+        "event": "男子分组循环赛A组#M17",
         "startDate": "22:00",
         "competitors": [
             {
@@ -173,8 +191,7 @@
     },
     {
         "disciplineName": "手球",
-        "eventName": "女子预赛A组#4",
-        "eventUnitName": "女子预赛A组#4",
+        "event": "女子预赛A组#4",
         "startDate": "22:00",
         "competitors": [
             {
@@ -193,8 +210,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventName": "男子分组循环赛A组#M18",
-        "eventUnitName": "男子分组循环赛A组#M18",
+        "event": "男子分组循环赛A组#M18",
         "startDate": "22:30",
         "competitors": [
             {
@@ -213,8 +229,7 @@
     },
     {
         "disciplineName": "足球",
-        "eventName": "女子A组#2",
-        "eventUnitName": "女子A组#2",
+        "event": "女子A组#2",
         "startDate": "23:00",
         "competitors": [
             {
@@ -233,8 +248,7 @@
     },
     {
         "disciplineName": "足球",
-        "eventName": "女子C组#5",
-        "eventUnitName": "女子C组#5",
+        "event": "女子C组#5",
         "startDate": "23:00",
         "competitors": [
             {
@@ -253,8 +267,7 @@
     },
     {
         "disciplineName": "手球",
-        "eventName": "女子预赛B组#5",
-        "eventUnitName": "女子预赛B组#5",
+        "event": "女子预赛B组#5",
         "startDate": "01:00",
         "competitors": [
             {
@@ -273,7 +286,7 @@
     },
     {
         "disciplineName": "足球",
-        "eventName": "女子B组#4",
+        "event": "女子B组#4",
         "eventUnitName": "女子B组#4",
         "startDate": "01:00",
         "competitors": [
@@ -293,7 +306,7 @@
     },
     {
         "disciplineName": "足球",
-        "eventName": "女子C组#6",
+        "event": "女子C组#6",
         "eventUnitName": "女子C组#6",
         "startDate": "01:00",
         "competitors": [
@@ -313,7 +326,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventName": "男子9-12名排名赛#M19",
+        "event": "男子9-12名排名赛#M19",
         "eventUnitName": "男子9-12名排名赛#M19",
         "startDate": "02:00",
         "competitors": [
@@ -333,7 +346,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventName": "男子9-12名排名赛#M20",
+        "event": "男子9-12名排名赛#M20",
         "eventUnitName": "男子9-12名排名赛#M20",
         "startDate": "02:30",
         "competitors": [
@@ -353,7 +366,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventName": "男子1/4决赛#M21",
+        "event": "男子1/4决赛#M21",
         "eventUnitName": "男子1/4决赛#M21",
         "startDate": "03:00",
         "competitors": [
@@ -373,7 +386,7 @@
     },
     {
         "disciplineName": "手球",
-        "eventName": "女子预赛A组#6",
+        "event": "女子预赛A组#6",
         "eventUnitName": "女子预赛A组#6",
         "startDate": "03:00",
         "competitors": [
@@ -393,7 +406,7 @@
     },
     {
         "disciplineName": "足球",
-        "eventName": "女子A组#1",
+        "event": "女子A组#1",
         "eventUnitName": "女子A组#1",
         "startDate": "03:00",
         "competitors": [
@@ -413,7 +426,7 @@
     },
     {
         "disciplineName": "足球",
-        "eventName": "女子B组#3",
+        "event": "女子B组#3",
         "eventUnitName": "女子B组#3",
         "startDate": "03:00",
         "competitors": [
@@ -433,7 +446,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventName": "男子1/4决赛#M22",
+        "event": "男子1/4决赛#M22",
         "eventUnitName": "男子1/4决赛#M22",
         "startDate": "03:30",
         "competitors": [
@@ -453,7 +466,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventName": "男子1/4决赛#M23",
+        "event": "男子1/4决赛#M23",
         "eventUnitName": "男子1/4决赛#M23",
         "startDate": "04:00",
         "competitors": [
@@ -473,7 +486,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventName": "男子1/4决赛#M24",
+        "event": "男子1/4决赛#M24",
         "eventUnitName": "男子1/4决赛#M24",
         "startDate": "04:30",
         "competitors": [
