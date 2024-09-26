@@ -7,11 +7,11 @@
       </div>
       <nav>
         <ul class="nav-links">
-          <li><a href="#">Medal</a></li>
-          <li><a href="#">Schedule</a></li>
-          <li><a href="#">News</a></li>
-          <li><a href="#">Match table</a></li>
-          <li><a href="#">More</a></li>
+          <li v-for="(link, index) in links" :key="index">
+            <a href="#" :class="{ active: activeLink === index }" @click="setActiveLink(index)">
+              {{ link }}
+            </a>
+          </li>
         </ul>
       </nav>
       <div class="search-container">
@@ -40,7 +40,17 @@
 
 <script>
 export default {
-  name: "HomePage",
+  data() {
+    return {
+      links: ['Medal', 'Schedule', 'News', 'Match table', 'More'],
+      activeLink: null
+    };
+  },
+  methods: {
+    setActiveLink(index) {
+      this.activeLink = index;
+    }
+  }
 };
 </script>
 
@@ -57,6 +67,10 @@ export default {
   height: 100px;
 }
 
+.href {
+  border-radius: 45px;
+}
+
 .nav-links {
   display: flex;
   list-style-type: none;
@@ -71,6 +85,15 @@ export default {
   text-decoration: none;
   font-size: 18px;
   padding: 40px;
+}
+
+.nav-links a:hover {
+  background-color: rgb(13, 0, 94);
+}
+
+.nav-links a.active {
+  color: rgb(222, 222, 222);
+  /* 点击时改变颜色 */
 }
 
 .search-container {
