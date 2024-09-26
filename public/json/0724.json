@@ -1,7 +1,7 @@
 [
     {
         "disciplineName": "足球",
-        "eventUnitName#unitNum": "男子B组#3",
+        "event": "男子B组#3",
         "startDate": "21:00",
         "competitors": [
             {
@@ -20,7 +20,7 @@
     },
     {
         "disciplineName": "足球",
-        "eventUnitName#unitNum": "男子C组#5",
+        "event": "男子C组#5",
         "startDate": "21:00",
         "competitors": [
             {
@@ -39,7 +39,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventUnitName#unitNum": "男子分组循环赛B组#M01",
+        "event": "男子分组循环赛B组#M01",
         "startDate": "21:30",
         "competitors": [
             {
@@ -58,7 +58,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventUnitName#unitNum": "男子分组循环赛B组#M02",
+        "event": "男子分组循环赛B组#M02",
         "startDate": "22:00",
         "competitors": [
             {
@@ -77,7 +77,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventUnitName#unitNum": "男子分组循环赛C组#M03",
+        "event": "男子分组循环赛C组#M03",
         "startDate": "22:30",
         "competitors": [
             {
@@ -96,7 +96,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventUnitName#unitNum": "男子分组循环赛C组#M04",
+        "event": "男子分组循环赛C组#M04",
         "startDate": "23:00",
         "competitors": [
             {
@@ -115,7 +115,7 @@
     },
     {
         "disciplineName": "足球",
-        "eventUnitName#unitNum": "男子A组#2",
+        "event": "男子A组#2",
         "startDate": "23:00",
         "competitors": [
             {
@@ -134,7 +134,7 @@
     },
     {
         "disciplineName": "足球",
-        "eventUnitName#unitNum": "男子C组#6",
+        "event": "男子C组#6",
         "startDate": "23:00",
         "competitors": [
             {
@@ -153,7 +153,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventUnitName#unitNum": "男子分组循环赛A组#M05",
+        "event": "男子分组循环赛A组#M05",
         "startDate": "23:30",
         "competitors": [
             {
@@ -172,7 +172,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventUnitName#unitNum": "男子分组循环赛A组#M06",
+        "event": "男子分组循环赛A组#M06",
         "startDate": "00:00",
         "competitors": [
             {
@@ -191,7 +191,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventUnitName#unitNum": "男子分组循环赛B组#M07",
+        "event": "男子分组循环赛B组#M07",
         "startDate": "01:00",
         "competitors": [
             {
@@ -210,7 +210,7 @@
     },
     {
         "disciplineName": "足球",
-        "eventUnitName#unitNum": "男子B组#4",
+        "event": "男子B组#4",
         "startDate": "01:00",
         "competitors": [
             {
@@ -229,7 +229,7 @@
     },
     {
         "disciplineName": "足球",
-        "eventUnitName#unitNum": "男子D组#8",
+        "event": "男子D组#8",
         "startDate": "01:00",
         "competitors": [
             {
@@ -248,7 +248,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventUnitName#unitNum": "男子分组循环赛B组#M08",
+        "event": "男子分组循环赛B组#M08",
         "startDate": "01:30",
         "competitors": [
             {
@@ -267,7 +267,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventUnitName#unitNum": "男子分组循环赛C组#M09",
+        "event": "男子分组循环赛C组#M09",
         "startDate": "02:00",
         "competitors": [
             {
@@ -286,7 +286,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventUnitName#unitNum": "男子分组循环赛C组#M10",
+        "event": "男子分组循环赛C组#M10",
         "startDate": "02:30",
         "competitors": [
             {
@@ -305,7 +305,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventUnitName#unitNum": "男子分组循环赛A组#M11",
+        "event": "男子分组循环赛A组#M11",
         "startDate": "03:00",
         "competitors": [
             {
@@ -324,7 +324,7 @@
     },
     {
         "disciplineName": "足球",
-        "eventUnitName#unitNum": "男子A组#1",
+        "event": "男子A组#1",
         "startDate": "03:00",
         "competitors": [
             {
@@ -343,7 +343,7 @@
     },
     {
         "disciplineName": "足球",
-        "eventUnitName#unitNum": "男子D组#7",
+        "event": "男子D组#7",
         "startDate": "03:00",
         "competitors": [
             {
@@ -362,7 +362,7 @@
     },
     {
         "disciplineName": "七人制橄榄球",
-        "eventUnitName#unitNum": "男子分组循环赛A组#M12",
+        "event": "男子分组循环赛A组#M12",
         "startDate": "03:30",
         "competitors": [
             {
