@@ -6,11 +6,11 @@ import 'element-ui/lib/theme-chalk/index.css';           // element-ui的css样�
 // import MatchList from './MatchList.vue';
 // import MoreDetail from './MoreDetail.vue';
 // import HomePage from './HomePage.vue';
-import DetailRating from './DetailRating.vue';
+import MainMatch from './MainMatch.vue';
  
 Vue.use(ElementUI);   // 这种方式引入了ElementUI中所有的组件
  
 new Vue({
   el: '#app',
-  render: h => h(DetailRating)
+  render: h => h(MainMatch)
 })
