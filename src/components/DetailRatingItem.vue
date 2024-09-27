@@ -63,7 +63,8 @@ export default {
 <style scoped>
 .match-container {
   border: 1px solid #ccc;
-  max-width: 300px;
+  width: 1000px;
+  height: 140px;
   margin: 0 auto;
   border-radius: 8px;
 }
@@ -72,14 +73,15 @@ export default {
   padding: 5px;
   text-align: left;
   font-weight: bold;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .teams {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
+  margin-top: 20px;
   border-bottom: #ccc 1px solid;
   border-top: #ccc 1px solid;
   padding: 5px;

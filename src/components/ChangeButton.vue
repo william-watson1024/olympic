@@ -30,7 +30,7 @@
   <style scoped>
   .menu {
     display: flex;
-    width: 50%; /* 调整菜单宽度 */
+    width: 120%; /* 调整菜单宽度 */
     margin: 0 auto;
   }
   
