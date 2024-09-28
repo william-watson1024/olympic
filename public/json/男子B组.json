@@ -1,0 +1,104 @@
+[
+    {
+        "info": "男子B组, 比赛3",
+        "teams": [
+            {
+                "name": "阿根廷",
+                "flag": "./country_images/ARG.png",
+                "score": 1
+            },
+            {
+                "name": "摩洛哥",
+                "flag": "./country_images/MAR.png",
+                "score": 2
+            }
+        ],
+        "time": "7月24日 21:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子B组, 比赛4",
+        "teams": [
+            {
+                "name": "伊拉克",
+                "flag": "./country_images/IRQ.png",
+                "score": 2
+            },
+            {
+                "name": "乌克兰",
+                "flag": "./country_images/UKR.png",
+                "score": 1
+            }
+        ],
+        "time": "7月24日 01:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子B组, 比赛11",
+        "teams": [
+            {
+                "name": "阿根廷",
+                "flag": "./country_images/ARG.png",
+                "score": 3
+            },
+            {
+                "name": "伊拉克",
+                "flag": "./country_images/IRQ.png",
+                "score": 1
+            }
+        ],
+        "time": "7月27日 21:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子B组, 比赛12",
+        "teams": [
+            {
+                "name": "乌克兰",
+                "flag": "./country_images/UKR.png",
+                "score": 2
+            },
+            {
+                "name": "摩洛哥",
+                "flag": "./country_images/MAR.png",
+                "score": 1
+            }
+        ],
+        "time": "7月27日 23:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子B组, 比赛19",
+        "teams": [
+            {
+                "name": "乌克兰",
+                "flag": "./country_images/UKR.png",
+                "score": 0
+            },
+            {
+                "name": "阿根廷",
+                "flag": "./country_images/ARG.png",
+                "score": 2
+            }
+        ],
+        "time": "7月30日 23:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子B组, 比赛20",
+        "teams": [
+            {
+                "name": "摩洛哥",
+                "flag": "./country_images/MAR.png",
+                "score": 3
+            },
+            {
+                "name": "伊拉克",
+                "flag": "./country_images/IRQ.png",
+                "score": 0
+            }
+        ],
+        "time": "7月30日 23:00",
+        "status": "已结束"
+    }
+]

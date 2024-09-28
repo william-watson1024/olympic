@@ -1,0 +1,1377 @@
+[
+    {
+        "specificEvent": "男子B组",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "男子B组#3",
+                "startDate": "21:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/ARG.png",
+                        "name": "阿根廷",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/MAR.png",
+                        "name": "摩洛哥",
+                        "mark": "2",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 24
+                },
+                "specificEvent": "男子B组",
+                "matchCode": "3"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子B组#4",
+                "startDate": "01:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/IRQ.png",
+                        "name": "伊拉克",
+                        "mark": "2",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/UKR.png",
+                        "name": "乌克兰",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 24
+                },
+                "specificEvent": "男子B组",
+                "matchCode": "4"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子B组#11",
+                "startDate": "21:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/ARG.png",
+                        "name": "阿根廷",
+                        "mark": "3",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/IRQ.png",
+                        "name": "伊拉克",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 27
+                },
+                "specificEvent": "男子B组",
+                "matchCode": "11"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子B组#12",
+                "startDate": "23:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/UKR.png",
+                        "name": "乌克兰",
+                        "mark": "2",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/MAR.png",
+                        "name": "摩洛哥",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 27
+                },
+                "specificEvent": "男子B组",
+                "matchCode": "12"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子B组#19",
+                "startDate": "23:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/UKR.png",
+                        "name": "乌克兰",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/ARG.png",
+                        "name": "阿根廷",
+                        "mark": "2",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 30
+                },
+                "specificEvent": "男子B组",
+                "matchCode": "19"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子B组#20",
+                "startDate": "23:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/MAR.png",
+                        "name": "摩洛哥",
+                        "mark": "3",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/IRQ.png",
+                        "name": "伊拉克",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 30
+                },
+                "specificEvent": "男子B组",
+                "matchCode": "20"
+            }
+        ]
+    },
+    {
+        "specificEvent": "男子C组",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "男子C组#5",
+                "startDate": "21:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/UZB.png",
+                        "name": "乌兹别克斯坦",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/ESP.png",
+                        "name": "西班牙",
+                        "mark": "2",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 24
+                },
+                "specificEvent": "男子C组",
+                "matchCode": "5"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子C组#6",
+                "startDate": "23:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/EGY.png",
+                        "name": "埃及",
+                        "mark": "0",
+                        "winnerLoserTie": "T"
+                    },
+                    {
+                        "noc": "./country_images/DOM.png",
+                        "name": "多米尼加",
+                        "mark": "0",
+                        "winnerLoserTie": "T"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 24
+                },
+                "specificEvent": "男子C组",
+                "matchCode": "6"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子C组#14",
+                "startDate": "21:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/DOM.png",
+                        "name": "多米尼加",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/ESP.png",
+                        "name": "西班牙",
+                        "mark": "3",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 27
+                },
+                "specificEvent": "男子C组",
+                "matchCode": "14"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子C组#13",
+                "startDate": "23:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/UZB.png",
+                        "name": "乌兹别克斯坦",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/EGY.png",
+                        "name": "埃及",
+                        "mark": "1",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 27
+                },
+                "specificEvent": "男子C组",
+                "matchCode": "13"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子C组#21",
+                "startDate": "21:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/DOM.png",
+                        "name": "多米尼加",
+                        "mark": "1",
+                        "winnerLoserTie": "T"
+                    },
+                    {
+                        "noc": "./country_images/UZB.png",
+                        "name": "乌兹别克斯坦",
+                        "mark": "1",
+                        "winnerLoserTie": "T"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 30
+                },
+                "specificEvent": "男子C组",
+                "matchCode": "21"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子C组#22",
+                "startDate": "21:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/ESP.png",
+                        "name": "西班牙",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/EGY.png",
+                        "name": "埃及",
+                        "mark": "2",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 30
+                },
+                "specificEvent": "男子C组",
+                "matchCode": "22"
+            }
+        ]
+    },
+    {
+        "specificEvent": "男子A组",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "男子A组#2",
+                "startDate": "23:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/GUI.png",
+                        "name": "几内亚",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/NZL.png",
+                        "name": "新西兰",
+                        "mark": "2",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 24
+                },
+                "specificEvent": "男子A组",
+                "matchCode": "2"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子A组#1",
+                "startDate": "03:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/FRA.png",
+                        "name": "法国",
+                        "mark": "3",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/USA.png",
+                        "name": "美国",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 24
+                },
+                "specificEvent": "男子A组",
+                "matchCode": "1"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子A组#10",
+                "startDate": "01:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/NZL.png",
+                        "name": "新西兰",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/USA.png",
+                        "name": "美国",
+                        "mark": "4",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 27
+                },
+                "specificEvent": "男子A组",
+                "matchCode": "10"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子A组#9",
+                "startDate": "03:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/FRA.png",
+                        "name": "法国",
+                        "mark": "1",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/GUI.png",
+                        "name": "几内亚",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 27
+                },
+                "specificEvent": "男子A组",
+                "matchCode": "9"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子A组#17",
+                "startDate": "01:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/NZL.png",
+                        "name": "新西兰",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/FRA.png",
+                        "name": "法国",
+                        "mark": "3",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 30
+                },
+                "specificEvent": "男子A组",
+                "matchCode": "17"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子A组#18",
+                "startDate": "01:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/USA.png",
+                        "name": "美国",
+                        "mark": "3",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/GUI.png",
+                        "name": "几内亚",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 30
+                },
+                "specificEvent": "男子A组",
+                "matchCode": "18"
+            }
+        ]
+    },
+    {
+        "specificEvent": "男子D组",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "男子D组#8",
+                "startDate": "01:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/JPN.png",
+                        "name": "日本",
+                        "mark": "5",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/PAR.png",
+                        "name": "巴拉圭",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 24
+                },
+                "specificEvent": "男子D组",
+                "matchCode": "8"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子D组#7",
+                "startDate": "03:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/MLI.png",
+                        "name": "马里",
+                        "mark": "1",
+                        "winnerLoserTie": "T"
+                    },
+                    {
+                        "noc": "./country_images/ISR.png",
+                        "name": "以色列",
+                        "mark": "1",
+                        "winnerLoserTie": "T"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 24
+                },
+                "specificEvent": "男子D组",
+                "matchCode": "7"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子D组#15",
+                "startDate": "01:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/ISR.png",
+                        "name": "以色列",
+                        "mark": "2",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/PAR.png",
+                        "name": "巴拉圭",
+                        "mark": "4",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 27
+                },
+                "specificEvent": "男子D组",
+                "matchCode": "15"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子D组#16",
+                "startDate": "03:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/JPN.png",
+                        "name": "日本",
+                        "mark": "1",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/MLI.png",
+                        "name": "马里",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 27
+                },
+                "specificEvent": "男子D组",
+                "matchCode": "16"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子D组#23",
+                "startDate": "03:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/ISR.png",
+                        "name": "以色列",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/JPN.png",
+                        "name": "日本",
+                        "mark": "1",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 30
+                },
+                "specificEvent": "男子D组",
+                "matchCode": "23"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子D组#24",
+                "startDate": "03:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/PAR.png",
+                        "name": "巴拉圭",
+                        "mark": "1",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/MLI.png",
+                        "name": "马里",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 30
+                },
+                "specificEvent": "男子D组",
+                "matchCode": "24"
+            }
+        ]
+    },
+    {
+        "specificEvent": "女子A组",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "女子A组#2",
+                "startDate": "23:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/CAN.png",
+                        "name": "加拿大",
+                        "mark": "2",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/NZL.png",
+                        "name": "新西兰",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 25
+                },
+                "specificEvent": "女子A组",
+                "matchCode": "2"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "女子A组#1",
+                "startDate": "03:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/FRA.png",
+                        "name": "法国",
+                        "mark": "3",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/COL.png",
+                        "name": "哥伦比亚",
+                        "mark": "2",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 25
+                },
+                "specificEvent": "女子A组",
+                "matchCode": "1"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "女子A组#8",
+                "startDate": "23:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/NZL.png",
+                        "name": "新西兰",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/COL.png",
+                        "name": "哥伦比亚",
+                        "mark": "2",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 28
+                },
+                "specificEvent": "女子A组",
+                "matchCode": "8"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "女子A组#7",
+                "startDate": "03:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/FRA.png",
+                        "name": "法国",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/CAN.png",
+                        "name": "加拿大",
+                        "mark": "2",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 28
+                },
+                "specificEvent": "女子A组",
+                "matchCode": "7"
+            }
+        ]
+    },
+    {
+        "specificEvent": "女子C组",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "女子C组#5",
+                "startDate": "23:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/ESP.png",
+                        "name": "西班牙",
+                        "mark": "2",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/JPN.png",
+                        "name": "日本",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 25
+                },
+                "specificEvent": "女子C组",
+                "matchCode": "5"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "女子C组#6",
+                "startDate": "01:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/NGR.png",
+                        "name": "尼日利亚",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/BRA.png",
+                        "name": "巴西",
+                        "mark": "1",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 25
+                },
+                "specificEvent": "女子C组",
+                "matchCode": "6"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "女子C组#12",
+                "startDate": "23:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/BRA.png",
+                        "name": "巴西",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/JPN.png",
+                        "name": "日本",
+                        "mark": "2",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 28
+                },
+                "specificEvent": "女子C组",
+                "matchCode": "12"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "女子C组#11",
+                "startDate": "01:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/ESP.png",
+                        "name": "西班牙",
+                        "mark": "1",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/NGR.png",
+                        "name": "尼日利亚",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 28
+                },
+                "specificEvent": "女子C组",
+                "matchCode": "11"
+            }
+        ]
+    },
+    {
+        "specificEvent": "女子B组",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "女子B组#4",
+                "startDate": "01:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/GER.png",
+                        "name": "德国",
+                        "mark": "3",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/AUS.png",
+                        "name": "澳大利亚",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 25
+                },
+                "specificEvent": "女子B组",
+                "matchCode": "4"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "女子B组#3",
+                "startDate": "03:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/USA.png",
+                        "name": "美国",
+                        "mark": "3",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/ZAM.png",
+                        "name": "赞比亚",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 25
+                },
+                "specificEvent": "女子B组",
+                "matchCode": "3"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "女子B组#10",
+                "startDate": "01:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/AUS.png",
+                        "name": "澳大利亚",
+                        "mark": "6",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/ZAM.png",
+                        "name": "赞比亚",
+                        "mark": "5",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 28
+                },
+                "specificEvent": "女子B组",
+                "matchCode": "10"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "女子B组#9",
+                "startDate": "03:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/USA.png",
+                        "name": "美国",
+                        "mark": "4",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/GER.png",
+                        "name": "德国",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 7,
+                    "day": 28
+                },
+                "specificEvent": "女子B组",
+                "matchCode": "9"
+            }
+        ]
+    },
+    {
+        "specificEvent": "男子1/4决赛",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "男子1/4决赛#26",
+                "startDate": "21:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/MAR.png",
+                        "name": "摩洛哥",
+                        "mark": "4",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/USA.png",
+                        "name": "美国",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 2
+                },
+                "specificEvent": "男子1/4决赛",
+                "matchCode": "26"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子1/4决赛#28",
+                "startDate": "23:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/JPN.png",
+                        "name": "日本",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/ESP.png",
+                        "name": "西班牙",
+                        "mark": "3",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 2
+                },
+                "specificEvent": "男子1/4决赛",
+                "matchCode": "28"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子1/4决赛#27",
+                "startDate": "01:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/EGY.png",
+                        "name": "埃及",
+                        "mark": "1",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/PAR.png",
+                        "name": "巴拉圭",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 2
+                },
+                "specificEvent": "男子1/4决赛",
+                "matchCode": "27"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子1/4决赛#25",
+                "startDate": "03:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/FRA.png",
+                        "name": "法国",
+                        "mark": "1",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/ARG.png",
+                        "name": "阿根廷",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 2
+                },
+                "specificEvent": "男子1/4决赛",
+                "matchCode": "25"
+            }
+        ]
+    },
+    {
+        "specificEvent": "女子1/4决赛",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "女子1/4决赛#20",
+                "startDate": "21:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/USA.png",
+                        "name": "美国",
+                        "mark": "1",
+                        "winnerLoserTie": ""
+                    },
+                    {
+                        "noc": "./country_images/JPN.png",
+                        "name": "日本",
+                        "mark": "0",
+                        "winnerLoserTie": ""
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 3
+                },
+                "specificEvent": "女子1/4决赛",
+                "matchCode": "20"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "女子1/4决赛#21",
+                "startDate": "23:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/ESP.png",
+                        "name": "西班牙",
+                        "mark": "2",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/COL.png",
+                        "name": "哥伦比亚",
+                        "mark": "2",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 3
+                },
+                "specificEvent": "女子1/4决赛",
+                "matchCode": "21"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "女子1/4决赛#22",
+                "startDate": "01:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/CAN.png",
+                        "name": "加拿大",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/GER.png",
+                        "name": "德国",
+                        "mark": "0",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 3
+                },
+                "specificEvent": "女子1/4决赛",
+                "matchCode": "22"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "女子1/4决赛#19",
+                "startDate": "03:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/FRA.png",
+                        "name": "法国",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/BRA.png",
+                        "name": "巴西",
+                        "mark": "1",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 3
+                },
+                "specificEvent": "女子1/4决赛",
+                "matchCode": "19"
+            }
+        ]
+    },
+    {
+        "specificEvent": "男子半决赛",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "男子半决赛#30",
+                "startDate": "00:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/MAR.png",
+                        "name": "摩洛哥",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/ESP.png",
+                        "name": "西班牙",
+                        "mark": "2",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 5
+                },
+                "specificEvent": "男子半决赛",
+                "matchCode": "30"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "男子半决赛#29",
+                "startDate": "03:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/FRA.png",
+                        "name": "法国",
+                        "mark": "3",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/EGY.png",
+                        "name": "埃及",
+                        "mark": "1",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 5
+                },
+                "specificEvent": "男子半决赛",
+                "matchCode": "29"
+            }
+        ]
+    },
+    {
+        "specificEvent": "女子半决赛",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "女子半决赛#24",
+                "startDate": "00:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/USA.png",
+                        "name": "美国",
+                        "mark": "1",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/GER.png",
+                        "name": "德国",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 6
+                },
+                "specificEvent": "女子半决赛",
+                "matchCode": "24"
+            },
+            {
+                "disciplineName": "足球",
+                "event": "女子半决赛#23",
+                "startDate": "03:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/BRA.png",
+                        "name": "巴西",
+                        "mark": "4",
+                        "winnerLoserTie": "W"
+                    },
+                    {
+                        "noc": "./country_images/ESP.png",
+                        "name": "西班牙",
+                        "mark": "2",
+                        "winnerLoserTie": "L"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 6
+                },
+                "specificEvent": "女子半决赛",
+                "matchCode": "23"
+            }
+        ]
+    },
+    {
+        "specificEvent": "男子铜牌赛",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "男子铜牌赛#31",
+                "startDate": "23:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/EGY.png",
+                        "name": "埃及",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/MAR.png",
+                        "name": "摩洛哥",
+                        "mark": "6",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 8
+                },
+                "specificEvent": "男子铜牌赛",
+                "matchCode": "31"
+            }
+        ]
+    },
+    {
+        "specificEvent": "女子铜牌赛",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "女子铜牌赛#25",
+                "startDate": "21:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/ESP.png",
+                        "name": "西班牙",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/GER.png",
+                        "name": "德国",
+                        "mark": "1",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 9
+                },
+                "specificEvent": "女子铜牌赛",
+                "matchCode": "25"
+            }
+        ]
+    },
+    {
+        "specificEvent": "男子金牌赛",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "男子金牌赛#32",
+                "startDate": "00:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/FRA.png",
+                        "name": "法国",
+                        "mark": "3",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/ESP.png",
+                        "name": "西班牙",
+                        "mark": "5",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 9
+                },
+                "specificEvent": "男子金牌赛",
+                "matchCode": "32"
+            }
+        ]
+    },
+    {
+        "specificEvent": "女子金牌赛",
+        "items": [
+            {
+                "disciplineName": "足球",
+                "event": "女子金牌赛#26",
+                "startDate": "23:00",
+                "competitors": [
+                    {
+                        "noc": "./country_images/BRA.png",
+                        "name": "巴西",
+                        "mark": "0",
+                        "winnerLoserTie": "L"
+                    },
+                    {
+                        "noc": "./country_images/USA.png",
+                        "name": "美国",
+                        "mark": "1",
+                        "winnerLoserTie": "W"
+                    }
+                ],
+                "date": {
+                    "month": 8,
+                    "day": 10
+                },
+                "specificEvent": "女子金牌赛",
+                "matchCode": "26"
+            }
+        ]
+    }
+]

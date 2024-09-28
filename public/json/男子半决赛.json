@@ -1,0 +1,36 @@
+[
+    {
+        "info": "男子半决赛, 比赛30",
+        "teams": [
+            {
+                "name": "摩洛哥",
+                "flag": "./country_images/MAR.png",
+                "score": 1
+            },
+            {
+                "name": "西班牙",
+                "flag": "./country_images/ESP.png",
+                "score": 2
+            }
+        ],
+        "time": "8月5日 00:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子半决赛, 比赛29",
+        "teams": [
+            {
+                "name": "法国",
+                "flag": "./country_images/FRA.png",
+                "score": 3
+            },
+            {
+                "name": "埃及",
+                "flag": "./country_images/EGY.png",
+                "score": 1
+            }
+        ],
+        "time": "8月5日 03:00",
+        "status": "已结束"
+    }
+]

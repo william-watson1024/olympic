@@ -2,7 +2,7 @@
   <div class="match-container">
     <!-- 比赛信息 -->
     <div class="match-info">
-      <span>{{ matchInfo + ',' + matchNumber }}</span>
+      <span>{{ matchInfo}}</span>
     </div>
 
     <!-- 两支队伍对比 -->
@@ -33,12 +33,7 @@ export default {
     matchInfo: {
       type: String,
       required: true,
-      default: 'B组'
-    },
-    matchNumber: {
-      type: String,
-      required: true,
-      default: '比赛 4'
+      default: 'B组, 比赛 4'
     },
     teams: {
       type: Array,
@@ -69,9 +64,9 @@ export default {
 .match-container {
   background-color: white;
   border: 1px solid #ccc;
-  width: 1000px;
+  width: 250px;
   height: 140px;
-  margin: 0 auto;
+  margin-right: 10px;
   border-radius: 8px;
   background-color: white;
 }
