@@ -4,6 +4,7 @@ import HomePage from '@/HomePage.vue';
 import MedalList from '@/MedalList.vue';
 import MoreDetail from '@/MoreDetail.vue';
 import MatchList from '@/MatchList.vue';
+import MainMatch_man from '@/MainMatch_man.vue';
 
 
 Vue.use(Router);
@@ -30,6 +31,11 @@ export default new Router({
         path: '/matchList',
         name: 'MatchList',
         component: MatchList
+    },
+    {
+        path: '/news',
+        name: 'MainMatch_mant',
+        component: MainMatch_man
     }
   ]
 });

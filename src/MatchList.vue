@@ -1,32 +1,36 @@
 <template>
   <div class="backgrouond">
-
-    <!-- <pre>{{ items }}</pre> -->
     <div>
       <DatePicker @date-selected="handleDateSelected" />
     </div>
-    <!-- 使用 MatchTableItem 组件并传递 props -->
-      <div style="display: flex; justify-content: flex-start; align-items: center; margin: 10px;">
-    <router-link to="/" style="display: inline-flex; align-items: center;">
-      <img src="@/assets/logo/back.png" alt="Back" style="width: 24px; height: auto; margin-right: 8px;" />
-    </router-link>
-  </div>
+    <div style="display: flex; justify-content: flex-start; align-items: center; margin: 10px;">
+      <router-link to="/" style="display: inline-flex; align-items: center;">
+        <img src="@/assets/logo/back.png" alt="Back" style="width: 24px; height: auto; margin-right: 8px;" />
+      </router-link>
+    </div>
     <div class="container">
-      <MatchTableItem v-for="(item, index) in items" :key="index" :time="item.startDate" :event="item.event"
-        :edisciplineName="item.disciplineName" :team1="{
+      <MatchTableItem
+        v-for="(item, index) in items"
+        :key="index"
+        :time="item.startDate"
+        :event="item.event"
+        :edisciplineName="item.disciplineName"
+        :team1="{
           name: item.competitors[0].name,
           flag: item.competitors[0].noc,
           score: item.competitors[0].mark,
           winnerLoserTie: item.competitors[0].winnerLoserTie,
-        }" :team2="{
+        }"
+        :team2="{
           name: item.competitors[1].name,
           flag: item.competitors[1].noc,
           score: item.competitors[1].mark,
           winnerLoserTie: item.competitors[1].winnerLoserTie,
-        }">
-      </MatchTableItem>
+        }"
+        @match-selected="navigateToMatch"
+      />
     </div>
-    <div style="height: 200px;"> </div>
+    <div style="height: 200px;"></div>
   </div>
 </template>
 
@@ -38,12 +42,12 @@ import axios from 'axios';
 export default {
   components: {
     MatchTableItem,
-    DatePicker
+    DatePicker,
   },
   data() {
     return {
       selectedDate: '0725',
-      items: []
+      items: [],
     };
   },
   mounted() {
@@ -65,15 +69,23 @@ export default {
       } catch (error) {
         console.error('Error fetching match list:', error);
       }
-    }
+    },
+    navigateToMatch(matchDetails) {
+      // Use Vue Router to navigate to the MainMatch_mant page
+      this.$router.push({
+        name: 'MainMatch_mant', // Ensure this matches your route name
+        params: { matchDetails },
+      });
+    },
   },
   watch: {
     selectedDate() {
       this.fetchMatchList();
-    }
-  }
+    },
+  },
 };
 </script>
+
 
 <style scoped>
 #app {

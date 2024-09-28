@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="container" @click="goToMatch">
 
         <div class="match-container">
             <!-- 第一行：比赛时间和比赛项目 -->
@@ -77,6 +77,18 @@ export default {
             winnerLoserTie : 1,
         }
     },
+     methods: {
+    goToMatch() {
+      // Emit event with match details
+      this.$emit('match-selected', {
+        time: this.time,
+        event: this.event,
+        edisciplineName: this.edisciplineName,
+        team1: this.team1,
+        team2: this.team2,
+      });
+    },
+  },
 };
 </script>
 
