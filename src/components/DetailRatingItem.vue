@@ -67,6 +67,7 @@ export default {
   height: 140px;
   margin: 0 auto;
   border-radius: 8px;
+  background-color: white;
 }
 
 .match-info {
