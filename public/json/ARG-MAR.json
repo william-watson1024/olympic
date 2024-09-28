@@ -1,0 +1,192 @@
+{
+    "ARG-MAR": [
+        {
+            "item0": [
+                {
+                    "bib": "1",
+                    "name": "RULLI Geronimo",
+                    "position": "守门员"
+                },
+                {
+                    "bib": "2",
+                    "name": "di CESARE Marco",
+                    "position": "后卫"
+                },
+                {
+                    "bib": "3",
+                    "name": "SOLER Julio",
+                    "position": "后卫"
+                },
+                {
+                    "bib": "4",
+                    "name": "GARCIA Joaquin",
+                    "position": "后卫"
+                },
+                {
+                    "bib": "5",
+                    "name": "FERNANDEZ Ezequiel",
+                    "position": "中场"
+                },
+                {
+                    "bib": "6",
+                    "name": "AMIONE Bruno",
+                    "position": "后卫"
+                },
+                {
+                    "bib": "7",
+                    "name": "ZENON Kevin",
+                    "position": "中场"
+                },
+                {
+                    "bib": "8",
+                    "name": "MEDINA Cristian",
+                    "position": "中场"
+                },
+                {
+                    "bib": "9",
+                    "name": "ALVAREZ Julian",
+                    "position": "前锋"
+                },
+                {
+                    "bib": "10",
+                    "name": "ALMADA Thiago",
+                    "position": "中场"
+                },
+                {
+                    "bib": "11",
+                    "name": "ECHEVERRI Claudio",
+                    "position": "中场"
+                },
+                {
+                    "bib": "12",
+                    "name": "BREY Leandro",
+                    "position": "守门员"
+                },
+                {
+                    "bib": "13",
+                    "name": "LUJAN Gonzalo",
+                    "position": "后卫"
+                },
+                {
+                    "bib": "14",
+                    "name": "HEZZE Santiago",
+                    "position": "中场"
+                },
+                {
+                    "bib": "15",
+                    "name": "GONDOU Luciano",
+                    "position": "前锋"
+                },
+                {
+                    "bib": "16",
+                    "name": "OTAMENDI Nicolas",
+                    "position": "后卫"
+                },
+                {
+                    "bib": "17",
+                    "name": "SIMEONE Giuliano",
+                    "position": "前锋"
+                },
+                {
+                    "bib": "18",
+                    "name": "BELTRAN Lucas",
+                    "position": "前锋"
+                }
+            ]
+        },
+        {
+            "item1": [
+                {
+                    "bib": "1",
+                    "name": "EL KAJOUI Munir",
+                    "position": "守门员"
+                },
+                {
+                    "bib": "2",
+                    "name": "HAKIMI Achraf",
+                    "position": "后卫"
+                },
+                {
+                    "bib": "3",
+                    "name": "NAKACH Akram",
+                    "position": "后卫"
+                },
+                {
+                    "bib": "4",
+                    "name": "BOUKAMIR Mehdi",
+                    "position": "后卫"
+                },
+                {
+                    "bib": "5",
+                    "name": "TAHIF Adil",
+                    "position": "后卫"
+                },
+                {
+                    "bib": "6",
+                    "name": "BOUCHOUARI Benjamin",
+                    "position": "中场"
+                },
+                {
+                    "bib": "7",
+                    "name": "BEN SEGHIR Eliesse",
+                    "position": "前锋"
+                },
+                {
+                    "bib": "8",
+                    "name": "EL KHANNOUSS Bilal",
+                    "position": "中场"
+                },
+                {
+                    "bib": "9",
+                    "name": "RAHIMI Soufiane",
+                    "position": "前锋"
+                },
+                {
+                    "bib": "10",
+                    "name": "AKHOMACH Ilias",
+                    "position": "前锋"
+                },
+                {
+                    "bib": "11",
+                    "name": "EL OUAHDI Zakaria",
+                    "position": "后卫"
+                },
+                {
+                    "bib": "12",
+                    "name": "GHANIMI Rachid",
+                    "position": "守门员"
+                },
+                {
+                    "bib": "13",
+                    "name": "KECHTA Yassine",
+                    "position": "中场"
+                },
+                {
+                    "bib": "14",
+                    "name": "TARGHALLINE Oussama",
+                    "position": "中场"
+                },
+                {
+                    "bib": "15",
+                    "name": "MAOUHOUB Mehdi",
+                    "position": "前锋"
+                },
+                {
+                    "bib": "16",
+                    "name": "EZZALZOULI Abde",
+                    "position": "前锋"
+                },
+                {
+                    "bib": "17",
+                    "name": "EL AZZOUZI Oussama",
+                    "position": "中场"
+                },
+                {
+                    "bib": "18",
+                    "name": "RICHARDSON Amir",
+                    "position": "中场"
+                }
+            ]
+        }
+    ]
+}

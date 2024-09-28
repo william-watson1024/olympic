@@ -8,7 +8,8 @@ import 'element-ui/lib/theme-chalk/index.css';           // element-ui的css样�
 // import MoreDetail from './MoreDetail.vue';
 // import HomePage from './HomePage.vue';
 //import MainMatch_man from './MainMatch_man.vue';
-import App from './App.vue';
+// import App from './App.vue';
+import DetailRating from './DetailRating.vue';
 
  
 Vue.use(ElementUI);   // 这种方式引入了ElementUI中所有的组件
@@ -16,6 +17,8 @@ Vue.use(ElementUI);   // 这种方式引入了ElementUI中所有的组件
 new Vue({
   el: '#app',
   router, // Ensure that router is passed here
-  render: h => h(App)
+  // render: h => h(App)
+  render: h => h(DetailRating)
 });
+
 

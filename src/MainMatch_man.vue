@@ -123,7 +123,7 @@
     </div>
 
     <!-- 下部参赛名单表格 -->
-    <!--<div class="players-list">
+    <div class="players-list">
         <div class="team-players">
           <h3>ARG 阿根廷出场球员</h3>
           <ManPositionTitle class="man-position-title" field1Content="NO" field2Content="姓名" field3Content="位置" />
@@ -147,7 +147,7 @@
             :field3Content="player.position"
           />
         </div>
-      </div>-->
+      </div>
   </div>
 </template>
 
@@ -183,6 +183,7 @@ export default {
             { name: "摩洛哥", flag: "./country_images/MAR.png", score: 2 },
           ],
         },
+        
       ],
       quarterFinals: [
         {
