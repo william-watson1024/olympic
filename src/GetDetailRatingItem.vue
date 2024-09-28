@@ -12,7 +12,6 @@
         v-for="(item, index) in items"
         :key="index"
         :matchInfo="matchInfo"
-        :match-number="matchNumber"
         :teams="{
             name: item.team1.name,
             flag: item.team1.flag,

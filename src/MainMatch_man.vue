@@ -2,6 +2,10 @@
   <div class="body">
     <div class="page-container">
       <div class="match-info-center">
+        <!-- <pre>{{ selectedGroup }}</pre>
+        <pre>{{ lwz }}
+        </pre> -->
+
         <!-- 返回按钮 -->
         <BackButton @click="goBack" class="back-button" />
 
@@ -12,34 +16,39 @@
           </div>
         </div>
         <div class="top-group">
-        <!-- 按钮组 -->
-        <ButtonGroup class="button-group" />
+          <!-- 按钮组 -->
+          <ButtonGroup @button-selected="handleSelectedGroup" class="button-group" />
 
-        <!-- 多个评分项 -->
-        <!-- 假设这是你的容器元素 -->
-        <div class="rating-items-container">
-          <DetailRatingItem
-            v-for="index in 3"
-            :key="index"
-            class="rating-item"
-          />
-        </div>
+          <!-- 多个评分项 -->
+          <!-- 假设这是你的容器元素 -->
+           <div class="gridLayout" v-if="selectedGroup !== null">
+          <div class="rating-items-container">
+            <DetailRatingItem
+              v-for="(match,index) in lwz"
+              :key="index"
+              :matchInfo="match.info"
+              :teams="match.teams"
+              :matchTime="match.time"
+              :matchStatus="match.status"
+            />
+          </div>
+          </div>
         </div>
         <!-- 中部比分统计 -->
-        <div class="score-statistics">
+        <!-- <div class="score-statistics">
           <div class="team-result">
-            <img :src="matches[0].teams[0].flag" alt="ARG" class="team-flag" />
-            <h3 class="cname">{{ matches[0].teams[0].name }}</h3>
+            <img :src="matchs[0].teams[0].flag" alt="ARG" class="team-flag" />
+            <h3 class="cname">{{ matchs[0].teams[0].name }}</h3>
             <h2 class="score">
-              {{ matches[0].teams[0].score }} - {{ matches[0].teams[1].score }}
+              {{ matchs[0].teams[0].score }} - {{ matchs[0].teams[1].score }}
             </h2>
-            <h3 class="cname">{{ matches[0].teams[1].name }}</h3>
-            <img :src="matches[0].teams[1].flag" alt="MAR" class="team-flag" />
+            <h3 class="cname">{{ matchs[0].teams[1].name }}</h3>
+            <img :src="matchs[0].teams[1].flag" alt="MAR" class="team-flag" />
           </div>
           <div class="half-time-score">
             <h4>半场比分: {{ halfTimeScore }}</h4>
           </div>
-        </div>
+        </div> -->
 
         <ChangeButton class="change-button" />
         <!-- 比赛详情 -->
@@ -159,6 +168,7 @@ import DetailRatingItem from "./components/DetailRatingItem.vue";
 //import ManPositionTitle from './components/ManPositionTitle.vue';
 import CombinedMatch from "./components/CombinedMatch.vue";
 import BackButton from "./components/BackButton.vue";
+import axios from 'axios';
 
 export default {
   name: "MatchPage",
@@ -173,18 +183,9 @@ export default {
   },
   data() {
     return {
-      matches: [
-        {
-          info: "B组, 比赛 3",
-          time: "7月24日 21:00",
-          status: "已结束",
-          teams: [
-            { name: "阿根廷", flag: "./country_images/ARG.png", score: 1 },
-            { name: "摩洛哥", flag: "./country_images/MAR.png", score: 2 },
-          ],
-        },
-        
-      ],
+      selectedGroup: "B组",
+      lwz: [],
+
       quarterFinals: [
         {
           upperFlagSrc: "././/public/country_images/FRA.png",
@@ -257,7 +258,21 @@ export default {
       halfTimeScore: "1 - 1", // 示例半场比分
     };
   },
+  mounted() {
+    this.fetchMatchList();
+  },
   methods: {
+    async fetchMatchList() {
+      try {
+        const response = await axios.get(`./json/${this.selectedGroup}.json`);
+        this.lwz = response.data;
+      } catch (error) {
+        console.error('Error fetching match list:', error);
+      }
+    },
+    handleSelectedGroup(index){
+        this.selectedGroup = index;
+    },
     handleMouseOver() {
       this.isHighlighted = true;
     },
@@ -265,7 +280,12 @@ export default {
       this.isHighlighted = false;
     },
     goBack() {
-      this.$router.push({ name: 'MatchList' }); // Replace 'MatchList' with the actual route name if different
+      this.$router.push({ name: "MatchList" }); // Replace 'MatchList' with the actual route name if different
+    },
+  },
+  watch: {
+    selectedGroup() {
+      this.fetchMatchList();
     },
   },
 };
@@ -295,10 +315,11 @@ export default {
   z-index: 10;
 }
 
-.top-group{
+.top-group {
   padding: 50px;
   border-radius: 10px;
   width: 80%;
+  
 }
 
 .button-group {
@@ -343,12 +364,12 @@ export default {
 }
 
 .score-statistics {
-  background-color: rgba(255, 255, 255, 0.8); /* 半透明背景 */;
+  background-color: rgba(255, 255, 255, 0.8); /* 半透明背景 */
   border-radius: 10px;
   width: 65%;
   text-align: center;
   padding: 50px;
-  margin-top:50px;
+  margin-top: 50px;
 }
 
 .match-info-center {
@@ -356,19 +377,22 @@ export default {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
   padding: 10px;
 }
 
 .rating-items-container {
-  display: flex;
-  flex-direction: row;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 每行两个列 */
+  gap: 20px; /* 调整间距 */
   margin-top: 40px;
   margin-left: 100px;
   margin-right: 100px;
+  justify-content: space-between;
 }
 
 .rating-item {
-  margin-right: 20px; /* 根据需要调整间距 */
+  margin: 10px; /* 根据需要调整间距 */
 }
 
 .change-button {
@@ -554,5 +578,11 @@ export default {
   right: 0; /* 确保靠右 */
   margin-bottom: 20px; /* 调整与比赛框的间距 */
   z-index: 1; /* 确保在其他元素上方 */
+}
+
+.gridLayout {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 每行两个列 */
+    
 }
 </style>

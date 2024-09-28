@@ -1,0 +1,104 @@
+[
+    {
+        "info": "男子A组, 比赛2",
+        "teams": [
+            {
+                "name": "几内亚",
+                "flag": "./country_images/GUI.png",
+                "score": 1
+            },
+            {
+                "name": "新西兰",
+                "flag": "./country_images/NZL.png",
+                "score": 2
+            }
+        ],
+        "time": "7月24日 23:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子A组, 比赛1",
+        "teams": [
+            {
+                "name": "法国",
+                "flag": "./country_images/FRA.png",
+                "score": 3
+            },
+            {
+                "name": "美国",
+                "flag": "./country_images/USA.png",
+                "score": 0
+            }
+        ],
+        "time": "7月24日 03:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子A组, 比赛10",
+        "teams": [
+            {
+                "name": "新西兰",
+                "flag": "./country_images/NZL.png",
+                "score": 1
+            },
+            {
+                "name": "美国",
+                "flag": "./country_images/USA.png",
+                "score": 4
+            }
+        ],
+        "time": "7月27日 01:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子A组, 比赛9",
+        "teams": [
+            {
+                "name": "法国",
+                "flag": "./country_images/FRA.png",
+                "score": 1
+            },
+            {
+                "name": "几内亚",
+                "flag": "./country_images/GUI.png",
+                "score": 0
+            }
+        ],
+        "time": "7月27日 03:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子A组, 比赛17",
+        "teams": [
+            {
+                "name": "新西兰",
+                "flag": "./country_images/NZL.png",
+                "score": 0
+            },
+            {
+                "name": "法国",
+                "flag": "./country_images/FRA.png",
+                "score": 3
+            }
+        ],
+        "time": "7月30日 01:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子A组, 比赛18",
+        "teams": [
+            {
+                "name": "美国",
+                "flag": "./country_images/USA.png",
+                "score": 3
+            },
+            {
+                "name": "几内亚",
+                "flag": "./country_images/GUI.png",
+                "score": 0
+            }
+        ],
+        "time": "7月30日 01:00",
+        "status": "已结束"
+    }
+]
