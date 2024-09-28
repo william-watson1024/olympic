@@ -18,6 +18,16 @@
     <ManPosition :opacity="1">
 
     </ManPosition>
+    
+    <CombinedMatch>
+      upperFlagSrc="path/to/upperFlag.png" 
+      upperCountryName="Country A" 
+      :upperScore="90"
+      lowerFlagSrc="path/to/lowerFlag.png" 
+      lowerCountryName="Country B" 
+      :lowerScore="85" 
+    </CombinedMatch>
+
   </div>
 </template>
 
@@ -27,14 +37,15 @@ import ButtonGroup from './components/ButtonGroup.vue';
 import ChangeButtonVue from './components/ChangeButton.vue';
 import ManPosition from './components/ManPosition.vue';
 import ManPositionTitle from './components/ManPositionTitle.vue';
+import CombinedMatch from './components/CombinedMatch.vue';
 export default {
   components: {
     DetailRatingItem,
     ButtonGroup,
     ChangeButtonVue,
     ManPosition,
-    ManPositionTitle
-
+    ManPositionTitle,
+    CombinedMatch
   },
   data() {
     return {

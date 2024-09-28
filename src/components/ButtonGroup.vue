@@ -23,6 +23,7 @@
     methods: {
       selectButton(index) {
         this.selectedButton = index;
+        this.$emit('Button-selected', index)
       }
     }
   };

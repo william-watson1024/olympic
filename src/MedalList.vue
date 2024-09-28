@@ -1,18 +1,36 @@
 <template>
   <div id="medalList">
-    <img src="@/assets/logo/olympicsring.png" alt="Olympic Logo" class="olympic-logo"
-      style="width: 200px; height: 100px;">
-    <div class="top" style="display: flex;justify-content: center;">
-      <div class="topContainer"
-        style="border-radius: 10px; background-color: rgba(255, 255, 255, 0.3);display: flex;justify-content: center;width:600px;">
+    <img
+      src="@/assets/logo/olympicsring.png"
+      alt="Olympic Logo"
+      class="olympic-logo"
+      style="width: 200px; height: 100px"
+    />
+    <div class="top" style="display: flex; justify-content: center">
+      <div
+        class="topContainer"
+        style="
+          border-radius: 10px;
+          background-color: rgba(255, 255, 255, 0.3);
+          display: flex;
+          justify-content: center;
+          width: 600px;
+        "
+      >
         <div class="header">
-          <div class="title" style="color: white;">
+          <div class="title" style="color: white">
             <h1>Medals For Paris Olympics</h1>
             <h2>巴黎奥运会奖牌榜</h2>
           </div>
         </div>
       </div>
     </div>
+  <div style="display: flex; justify-content: flex-start; align-items: center; margin: 10px;">
+    <router-link to="/" style="display: inline-flex; align-items: center;">
+      <img src="@/assets/logo/back.png" alt="Back" style="width: 24px; height: auto; margin-right: 8px;" />
+    </router-link>
+  </div>
+
     <div class="headerContainer">
       <!-- 表头行 -->
       <div class="header-row" align="middle" type="flex">
@@ -42,75 +60,81 @@
           <el-col :span="2">
             <span>总数</span>
           </el-col>
-          <el-col :span="2">
-          </el-col>
+          <el-col :span="2"> </el-col>
         </el-row>
       </div>
     </div>
     <div class="container">
       <!-- 列表项 -->
-      <RankItem v-for="(item, index) in items" :key="index" :rank="item.rank" :flag="item.flag"
-        :countryName="item.countryname" :gold="item.gold" :silver="item.silver" :bronze="item.bronze"
-        :total="item.count" @add="onAdd" />
+      <RankItem
+        v-for="(item, index) in items"
+        :key="index"
+        :rank="item.rank"
+        :flag="item.flag"
+        :countryName="item.countryname"
+        :gold="item.gold"
+        :silver="item.silver"
+        :bronze="item.bronze"
+        :total="item.count"
+        @add="onAdd"
+      />
     </div>
   </div>
 </template>
 
 <script>
-import RankItem from './components/RankItem.vue';
-import axios from 'axios';
+import RankItem from "./components/RankItem.vue";
+import axios from "axios";
 
 export default {
-  name: 'medalList',
+  name: "medalList",
   data() {
     return {
-      items: []
-    }
+      items: [],
+    };
   },
   components: {
-    RankItem
+    RankItem,
   },
   mounted() {
     this.fetchRankList();
   },
   methods: {
-    onAdd() {
-      console.log('Add event triggered');
-    },
     async fetchRankList() {
       try {
-        const response = await axios.get('./json/medal.json'); // 确保路径正确
-        console.log('Rank list:', response.data);
+        const response = await axios.get("./json/medal.json"); // 确保路径正确
+        console.log("Rank list:", response.data);
         this.items = response.data;
       } catch (error) {
-        console.error('Error fetching rank list:', error);
+        console.error("Error fetching rank list:", error);
       }
     },
-  }
-}
+    onAdd() {
+      console.log("Add event triggered");
+    },
+  },
+};
 </script>
 
 <style>
 #medalList {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 14px;
   text-align: center;
   color: #2c3e50;
-  background-image: url('@/assets/background/sea.jpg');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+  background-image: url("@/assets/background/sea.jpg"); /* 设置背景图片 */
+  background-size: cover; /* 背景图片覆盖整个容器 */
+  background-position: center; /* 背景图片居中 */
+  background-attachment: fixed; /* 背景图片固定 */
 }
 
 .container {
   width: 100%;
   max-width: 800px;
   margin: 0 auto;
-
 }
-
 .headerContainer {
   width: 100%;
   max-width: 800px;
@@ -121,8 +145,7 @@ export default {
 }
 
 .header-row {
-  width: 600px;
-  /* 固定宽度 */
+  width: 600px; /* 固定宽度 */
   padding: 10px;
   align-items: center;
   background-color: rgba(255, 255, 255, 0);
@@ -130,8 +153,6 @@ export default {
   margin-bottom: 5px;
   color: white;
   font-weight: bold;
-
-
 }
 
 .header-item {

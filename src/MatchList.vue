@@ -1,11 +1,16 @@
 <template>
   <div class="backgrouond">
+
     <!-- <pre>{{ items }}</pre> -->
     <div>
       <DatePicker @date-selected="handleDateSelected" />
     </div>
     <!-- 使用 MatchTableItem 组件并传递 props -->
-
+      <div style="display: flex; justify-content: flex-start; align-items: center; margin: 10px;">
+    <router-link to="/" style="display: inline-flex; align-items: center;">
+      <img src="@/assets/logo/back.png" alt="Back" style="width: 24px; height: auto; margin-right: 8px;" />
+    </router-link>
+  </div>
     <div class="container">
       <MatchTableItem v-for="(item, index) in items" :key="index" :time="item.startDate" :event="item.event"
         :edisciplineName="item.disciplineName" :team1="{
@@ -70,7 +75,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

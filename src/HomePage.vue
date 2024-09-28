@@ -9,7 +9,7 @@
         <ul class="nav-links">
           <li v-for="(link, index) in links" :key="index">
             <a href="#" :class="{ active: activeLink === index }" @click="setActiveLink(index)">
-              {{ link }}
+              <router-link :to="link.route">{{ link.label }}</router-link>
             </a>
           </li>
         </ul>
@@ -42,7 +42,13 @@
 export default {
   data() {
     return {
-      links: ['Medal', 'Schedule', 'News', 'Match table', 'More'],
+      links: [
+        { label: 'Medal', route: '/medals' },  // Object with both label and route
+        { label: 'Schedule', route: '/matchList' },
+        { label: 'News', route: '#' },
+        { label: 'Matchtable', route: '/matchList' },
+        { label: 'More', route: '/more' }
+    ],
       activeLink: null
     };
   },
