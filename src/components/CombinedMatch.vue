@@ -1,16 +1,21 @@
 <template>
-  <div class="combined-match">
-    <UpperMatch 
-      :flagSrc="upperFlagSrc" 
-      :countryName="upperCountryName" 
-      :score="upperScore" 
-    />
-    <LowerMatch 
-      :flagSrc="lowerFlagSrc" 
-      :countryName="lowerCountryName" 
-      :score="lowerScore" 
-    />
-    <div :class="{'highlight': isHighlighted}" @mouseover="highlight(true)" @mouseleave="highlight(false)">
+  <div class="combined-match" @mouseover="$emit('mouseover')" @mouseleave="$emit('mouseleave')">
+    <div class="upper-match" :class="{ highlighted: isHighlighted }">
+      <UpperMatch 
+        :flagSrc="upperFlagSrc" 
+        :countryName="isUpperWinner ? `<strong>${upperCountryName}</strong>` : upperCountryName" 
+        :score="upperScore" 
+        :color="change_colorr"
+
+      />
+    </div>
+    <div class="lower-match" :class="{ highlighted: isHighlighted }">
+      <LowerMatch 
+        :flagSrc="lowerFlagSrc" 
+        :countryName="isLowerWinner ? `<strong>${lowerCountryName}</strong>` : lowerCountryName" 
+        :score="lowerScore" 
+        :color="change_colorr"
+      />
     </div>
   </div>
 </template>
@@ -19,64 +24,36 @@
 import UpperMatch from './UpperMatch.vue';
 import LowerMatch from './LowerMatch.vue';
 
+
 export default {
   components: {
     UpperMatch,
     LowerMatch
+
   },
   props: {
-    upperFlagSrc: {
-      type: String,
-      required: true
-    },
-    upperCountryName: {
-      type: String,
-      required: true
-    },
-    upperScore: {
-      type: Number,
-      required: true
-    },
-    lowerFlagSrc: {
-      type: String,
-      required: true
-    },
-    lowerCountryName: {
-      type: String,
-      required: true
-    },
-    lowerScore: {
-      type: Number,
-      required: true
-    },
-    highlightMatch: {
-      type: Boolean,
-      default: false
-    }
+    upperFlagSrc: { type: String, required: true },
+    upperCountryName: { type: String, required: true },
+    upperScore: { type: String, required: true },
+    lowerFlagSrc: { type: String, required: true },
+    lowerCountryName: { type: String, required: true },
+    lowerScore: { type: Number, required: true },
+    defaultColor: { type: String,  required: true,default:"white"} // 添加一个 props 参数
   },
-   methods: {
-    highlight(state) {
-      this.$emit('highlight', this.upperCountryName, state);
+  
+  data() {
+    return {
+      isHighlighted: false,
+      change_colorr: this.defaultColor // 使用 props 参数
+    };
+  },
+  computed: {
+    isUpperWinner() {
+      return this.upperScore > this.lowerScore;
+    },
+    isLowerWinner() {
+      return this.lowerScore > this.upperScore;
     }
   }
 };
 </script>
-
-<style scoped>
-.combined-match {
-  width: 300px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  border-radius: 15px;
-  position: relative;
-}
-
-.highlight {
-  border: 2px solid #ffcc00; /* 高亮效果 */
-  position: absolute;
-  top: -2px; /* 调整位置以覆盖边框 */
-  left: -2px;
-  right: -2px;
-  bottom: -2px;
-  z-index: 1; /* 确保高亮在上层 */
-}
-</style>
