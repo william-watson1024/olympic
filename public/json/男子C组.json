@@ -1,0 +1,104 @@
+[
+    {
+        "info": "男子C组, 比赛5",
+        "teams": [
+            {
+                "name": "乌兹别克斯坦",
+                "flag": "./country_images/UZB.png",
+                "score": 1
+            },
+            {
+                "name": "西班牙",
+                "flag": "./country_images/ESP.png",
+                "score": 2
+            }
+        ],
+        "time": "7月24日 21:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子C组, 比赛6",
+        "teams": [
+            {
+                "name": "埃及",
+                "flag": "./country_images/EGY.png",
+                "score": 0
+            },
+            {
+                "name": "多米尼加",
+                "flag": "./country_images/DOM.png",
+                "score": 0
+            }
+        ],
+        "time": "7月24日 23:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子C组, 比赛14",
+        "teams": [
+            {
+                "name": "多米尼加",
+                "flag": "./country_images/DOM.png",
+                "score": 1
+            },
+            {
+                "name": "西班牙",
+                "flag": "./country_images/ESP.png",
+                "score": 3
+            }
+        ],
+        "time": "7月27日 21:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子C组, 比赛13",
+        "teams": [
+            {
+                "name": "乌兹别克斯坦",
+                "flag": "./country_images/UZB.png",
+                "score": 0
+            },
+            {
+                "name": "埃及",
+                "flag": "./country_images/EGY.png",
+                "score": 1
+            }
+        ],
+        "time": "7月27日 23:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子C组, 比赛21",
+        "teams": [
+            {
+                "name": "多米尼加",
+                "flag": "./country_images/DOM.png",
+                "score": 1
+            },
+            {
+                "name": "乌兹别克斯坦",
+                "flag": "./country_images/UZB.png",
+                "score": 1
+            }
+        ],
+        "time": "7月30日 21:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子C组, 比赛22",
+        "teams": [
+            {
+                "name": "西班牙",
+                "flag": "./country_images/ESP.png",
+                "score": 1
+            },
+            {
+                "name": "埃及",
+                "flag": "./country_images/EGY.png",
+                "score": 2
+            }
+        ],
+        "time": "7月30日 21:00",
+        "status": "已结束"
+    }
+]

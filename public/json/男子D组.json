@@ -1,0 +1,104 @@
+[
+    {
+        "info": "男子D组, 比赛8",
+        "teams": [
+            {
+                "name": "日本",
+                "flag": "./country_images/JPN.png",
+                "score": 5
+            },
+            {
+                "name": "巴拉圭",
+                "flag": "./country_images/PAR.png",
+                "score": 0
+            }
+        ],
+        "time": "7月24日 01:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子D组, 比赛7",
+        "teams": [
+            {
+                "name": "马里",
+                "flag": "./country_images/MLI.png",
+                "score": 1
+            },
+            {
+                "name": "以色列",
+                "flag": "./country_images/ISR.png",
+                "score": 1
+            }
+        ],
+        "time": "7月24日 03:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子D组, 比赛15",
+        "teams": [
+            {
+                "name": "以色列",
+                "flag": "./country_images/ISR.png",
+                "score": 2
+            },
+            {
+                "name": "巴拉圭",
+                "flag": "./country_images/PAR.png",
+                "score": 4
+            }
+        ],
+        "time": "7月27日 01:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子D组, 比赛16",
+        "teams": [
+            {
+                "name": "日本",
+                "flag": "./country_images/JPN.png",
+                "score": 1
+            },
+            {
+                "name": "马里",
+                "flag": "./country_images/MLI.png",
+                "score": 0
+            }
+        ],
+        "time": "7月27日 03:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子D组, 比赛23",
+        "teams": [
+            {
+                "name": "以色列",
+                "flag": "./country_images/ISR.png",
+                "score": 0
+            },
+            {
+                "name": "日本",
+                "flag": "./country_images/JPN.png",
+                "score": 1
+            }
+        ],
+        "time": "7月30日 03:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子D组, 比赛24",
+        "teams": [
+            {
+                "name": "巴拉圭",
+                "flag": "./country_images/PAR.png",
+                "score": 1
+            },
+            {
+                "name": "马里",
+                "flag": "./country_images/MLI.png",
+                "score": 0
+            }
+        ],
+        "time": "7月30日 03:00",
+        "status": "已结束"
+    }
+]

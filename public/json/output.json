@@ -1,0 +1,886 @@
+[
+  {
+    "info": "男子B组, 比赛3",
+    "teams": [
+      {
+        "name": "阿根廷",
+        "flag": "./country_images/ARG.png",
+        "score": 1
+      },
+      {
+        "name": "摩洛哥",
+        "flag": "./country_images/MAR.png",
+        "score": 2
+      }
+    ],
+    "time": "7月24日 21:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子B组, 比赛4",
+    "teams": [
+      {
+        "name": "伊拉克",
+        "flag": "./country_images/IRQ.png",
+        "score": 2
+      },
+      {
+        "name": "乌克兰",
+        "flag": "./country_images/UKR.png",
+        "score": 1
+      }
+    ],
+    "time": "7月24日 01:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子B组, 比赛11",
+    "teams": [
+      {
+        "name": "阿根廷",
+        "flag": "./country_images/ARG.png",
+        "score": 3
+      },
+      {
+        "name": "伊拉克",
+        "flag": "./country_images/IRQ.png",
+        "score": 1
+      }
+    ],
+    "time": "7月27日 21:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子B组, 比赛12",
+    "teams": [
+      {
+        "name": "乌克兰",
+        "flag": "./country_images/UKR.png",
+        "score": 2
+      },
+      {
+        "name": "摩洛哥",
+        "flag": "./country_images/MAR.png",
+        "score": 1
+      }
+    ],
+    "time": "7月27日 23:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子B组, 比赛19",
+    "teams": [
+      {
+        "name": "乌克兰",
+        "flag": "./country_images/UKR.png",
+        "score": 0
+      },
+      {
+        "name": "阿根廷",
+        "flag": "./country_images/ARG.png",
+        "score": 2
+      }
+    ],
+    "time": "7月30日 23:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子B组, 比赛20",
+    "teams": [
+      {
+        "name": "摩洛哥",
+        "flag": "./country_images/MAR.png",
+        "score": 3
+      },
+      {
+        "name": "伊拉克",
+        "flag": "./country_images/IRQ.png",
+        "score": 0
+      }
+    ],
+    "time": "7月30日 23:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子C组, 比赛5",
+    "teams": [
+      {
+        "name": "乌兹别克斯坦",
+        "flag": "./country_images/UZB.png",
+        "score": 1
+      },
+      {
+        "name": "西班牙",
+        "flag": "./country_images/ESP.png",
+        "score": 2
+      }
+    ],
+    "time": "7月24日 21:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子C组, 比赛6",
+    "teams": [
+      {
+        "name": "埃及",
+        "flag": "./country_images/EGY.png",
+        "score": 0
+      },
+      {
+        "name": "多米尼加",
+        "flag": "./country_images/DOM.png",
+        "score": 0
+      }
+    ],
+    "time": "7月24日 23:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子C组, 比赛14",
+    "teams": [
+      {
+        "name": "多米尼加",
+        "flag": "./country_images/DOM.png",
+        "score": 1
+      },
+      {
+        "name": "西班牙",
+        "flag": "./country_images/ESP.png",
+        "score": 3
+      }
+    ],
+    "time": "7月27日 21:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子C组, 比赛13",
+    "teams": [
+      {
+        "name": "乌兹别克斯坦",
+        "flag": "./country_images/UZB.png",
+        "score": 0
+      },
+      {
+        "name": "埃及",
+        "flag": "./country_images/EGY.png",
+        "score": 1
+      }
+    ],
+    "time": "7月27日 23:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子C组, 比赛21",
+    "teams": [
+      {
+        "name": "多米尼加",
+        "flag": "./country_images/DOM.png",
+        "score": 1
+      },
+      {
+        "name": "乌兹别克斯坦",
+        "flag": "./country_images/UZB.png",
+        "score": 1
+      }
+    ],
+    "time": "7月30日 21:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子C组, 比赛22",
+    "teams": [
+      {
+        "name": "西班牙",
+        "flag": "./country_images/ESP.png",
+        "score": 1
+      },
+      {
+        "name": "埃及",
+        "flag": "./country_images/EGY.png",
+        "score": 2
+      }
+    ],
+    "time": "7月30日 21:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子A组, 比赛2",
+    "teams": [
+      {
+        "name": "几内亚",
+        "flag": "./country_images/GUI.png",
+        "score": 1
+      },
+      {
+        "name": "新西兰",
+        "flag": "./country_images/NZL.png",
+        "score": 2
+      }
+    ],
+    "time": "7月24日 23:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子A组, 比赛1",
+    "teams": [
+      {
+        "name": "法国",
+        "flag": "./country_images/FRA.png",
+        "score": 3
+      },
+      {
+        "name": "美国",
+        "flag": "./country_images/USA.png",
+        "score": 0
+      }
+    ],
+    "time": "7月24日 03:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子A组, 比赛10",
+    "teams": [
+      {
+        "name": "新西兰",
+        "flag": "./country_images/NZL.png",
+        "score": 1
+      },
+      {
+        "name": "美国",
+        "flag": "./country_images/USA.png",
+        "score": 4
+      }
+    ],
+    "time": "7月27日 01:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子A组, 比赛9",
+    "teams": [
+      {
+        "name": "法国",
+        "flag": "./country_images/FRA.png",
+        "score": 1
+      },
+      {
+        "name": "几内亚",
+        "flag": "./country_images/GUI.png",
+        "score": 0
+      }
+    ],
+    "time": "7月27日 03:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子A组, 比赛17",
+    "teams": [
+      {
+        "name": "新西兰",
+        "flag": "./country_images/NZL.png",
+        "score": 0
+      },
+      {
+        "name": "法国",
+        "flag": "./country_images/FRA.png",
+        "score": 3
+      }
+    ],
+    "time": "7月30日 01:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子A组, 比赛18",
+    "teams": [
+      {
+        "name": "美国",
+        "flag": "./country_images/USA.png",
+        "score": 3
+      },
+      {
+        "name": "几内亚",
+        "flag": "./country_images/GUI.png",
+        "score": 0
+      }
+    ],
+    "time": "7月30日 01:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子D组, 比赛8",
+    "teams": [
+      {
+        "name": "日本",
+        "flag": "./country_images/JPN.png",
+        "score": 5
+      },
+      {
+        "name": "巴拉圭",
+        "flag": "./country_images/PAR.png",
+        "score": 0
+      }
+    ],
+    "time": "7月24日 01:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子D组, 比赛7",
+    "teams": [
+      {
+        "name": "马里",
+        "flag": "./country_images/MLI.png",
+        "score": 1
+      },
+      {
+        "name": "以色列",
+        "flag": "./country_images/ISR.png",
+        "score": 1
+      }
+    ],
+    "time": "7月24日 03:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子D组, 比赛15",
+    "teams": [
+      {
+        "name": "以色列",
+        "flag": "./country_images/ISR.png",
+        "score": 2
+      },
+      {
+        "name": "巴拉圭",
+        "flag": "./country_images/PAR.png",
+        "score": 4
+      }
+    ],
+    "time": "7月27日 01:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子D组, 比赛16",
+    "teams": [
+      {
+        "name": "日本",
+        "flag": "./country_images/JPN.png",
+        "score": 1
+      },
+      {
+        "name": "马里",
+        "flag": "./country_images/MLI.png",
+        "score": 0
+      }
+    ],
+    "time": "7月27日 03:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子D组, 比赛23",
+    "teams": [
+      {
+        "name": "以色列",
+        "flag": "./country_images/ISR.png",
+        "score": 0
+      },
+      {
+        "name": "日本",
+        "flag": "./country_images/JPN.png",
+        "score": 1
+      }
+    ],
+    "time": "7月30日 03:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子D组, 比赛24",
+    "teams": [
+      {
+        "name": "巴拉圭",
+        "flag": "./country_images/PAR.png",
+        "score": 1
+      },
+      {
+        "name": "马里",
+        "flag": "./country_images/MLI.png",
+        "score": 0
+      }
+    ],
+    "time": "7月30日 03:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子A组, 比赛2",
+    "teams": [
+      {
+        "name": "加拿大",
+        "flag": "./country_images/CAN.png",
+        "score": 2
+      },
+      {
+        "name": "新西兰",
+        "flag": "./country_images/NZL.png",
+        "score": 1
+      }
+    ],
+    "time": "7月25日 23:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子A组, 比赛1",
+    "teams": [
+      {
+        "name": "法国",
+        "flag": "./country_images/FRA.png",
+        "score": 3
+      },
+      {
+        "name": "哥伦比亚",
+        "flag": "./country_images/COL.png",
+        "score": 2
+      }
+    ],
+    "time": "7月25日 03:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子A组, 比赛8",
+    "teams": [
+      {
+        "name": "新西兰",
+        "flag": "./country_images/NZL.png",
+        "score": 0
+      },
+      {
+        "name": "哥伦比亚",
+        "flag": "./country_images/COL.png",
+        "score": 2
+      }
+    ],
+    "time": "7月28日 23:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子A组, 比赛7",
+    "teams": [
+      {
+        "name": "法国",
+        "flag": "./country_images/FRA.png",
+        "score": 1
+      },
+      {
+        "name": "加拿大",
+        "flag": "./country_images/CAN.png",
+        "score": 2
+      }
+    ],
+    "time": "7月28日 03:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子C组, 比赛5",
+    "teams": [
+      {
+        "name": "西班牙",
+        "flag": "./country_images/ESP.png",
+        "score": 2
+      },
+      {
+        "name": "日本",
+        "flag": "./country_images/JPN.png",
+        "score": 1
+      }
+    ],
+    "time": "7月25日 23:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子C组, 比赛6",
+    "teams": [
+      {
+        "name": "尼日利亚",
+        "flag": "./country_images/NGR.png",
+        "score": 0
+      },
+      {
+        "name": "巴西",
+        "flag": "./country_images/BRA.png",
+        "score": 1
+      }
+    ],
+    "time": "7月25日 01:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子C组, 比赛12",
+    "teams": [
+      {
+        "name": "巴西",
+        "flag": "./country_images/BRA.png",
+        "score": 1
+      },
+      {
+        "name": "日本",
+        "flag": "./country_images/JPN.png",
+        "score": 2
+      }
+    ],
+    "time": "7月28日 23:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子C组, 比赛11",
+    "teams": [
+      {
+        "name": "西班牙",
+        "flag": "./country_images/ESP.png",
+        "score": 1
+      },
+      {
+        "name": "尼日利亚",
+        "flag": "./country_images/NGR.png",
+        "score": 0
+      }
+    ],
+    "time": "7月28日 01:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子B组, 比赛4",
+    "teams": [
+      {
+        "name": "德国",
+        "flag": "./country_images/GER.png",
+        "score": 3
+      },
+      {
+        "name": "澳大利亚",
+        "flag": "./country_images/AUS.png",
+        "score": 0
+      }
+    ],
+    "time": "7月25日 01:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子B组, 比赛3",
+    "teams": [
+      {
+        "name": "美国",
+        "flag": "./country_images/USA.png",
+        "score": 3
+      },
+      {
+        "name": "赞比亚",
+        "flag": "./country_images/ZAM.png",
+        "score": 0
+      }
+    ],
+    "time": "7月25日 03:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子B组, 比赛10",
+    "teams": [
+      {
+        "name": "澳大利亚",
+        "flag": "./country_images/AUS.png",
+        "score": 6
+      },
+      {
+        "name": "赞比亚",
+        "flag": "./country_images/ZAM.png",
+        "score": 5
+      }
+    ],
+    "time": "7月28日 01:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子B组, 比赛9",
+    "teams": [
+      {
+        "name": "美国",
+        "flag": "./country_images/USA.png",
+        "score": 4
+      },
+      {
+        "name": "德国",
+        "flag": "./country_images/GER.png",
+        "score": 1
+      }
+    ],
+    "time": "7月28日 03:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子四分之一决赛, 比赛26",
+    "teams": [
+      {
+        "name": "摩洛哥",
+        "flag": "./country_images/MAR.png",
+        "score": 4
+      },
+      {
+        "name": "美国",
+        "flag": "./country_images/USA.png",
+        "score": 0
+      }
+    ],
+    "time": "8月2日 21:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子四分之一决赛, 比赛28",
+    "teams": [
+      {
+        "name": "日本",
+        "flag": "./country_images/JPN.png",
+        "score": 0
+      },
+      {
+        "name": "西班牙",
+        "flag": "./country_images/ESP.png",
+        "score": 3
+      }
+    ],
+    "time": "8月2日 23:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子四分之一决赛, 比赛27",
+    "teams": [
+      {
+        "name": "埃及",
+        "flag": "./country_images/EGY.png",
+        "score": 1
+      },
+      {
+        "name": "巴拉圭",
+        "flag": "./country_images/PAR.png",
+        "score": 1
+      }
+    ],
+    "time": "8月2日 01:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子四分之一决赛, 比赛25",
+    "teams": [
+      {
+        "name": "法国",
+        "flag": "./country_images/FRA.png",
+        "score": 1
+      },
+      {
+        "name": "阿根廷",
+        "flag": "./country_images/ARG.png",
+        "score": 0
+      }
+    ],
+    "time": "8月2日 03:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子四分之一决赛, 比赛20",
+    "teams": [
+      {
+        "name": "美国",
+        "flag": "./country_images/USA.png",
+        "score": 1
+      },
+      {
+        "name": "日本",
+        "flag": "./country_images/JPN.png",
+        "score": 0
+      }
+    ],
+    "time": "8月3日 21:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子四分之一决赛, 比赛21",
+    "teams": [
+      {
+        "name": "西班牙",
+        "flag": "./country_images/ESP.png",
+        "score": 2
+      },
+      {
+        "name": "哥伦比亚",
+        "flag": "./country_images/COL.png",
+        "score": 2
+      }
+    ],
+    "time": "8月3日 23:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子四分之一决赛, 比赛22",
+    "teams": [
+      {
+        "name": "加拿大",
+        "flag": "./country_images/CAN.png",
+        "score": 0
+      },
+      {
+        "name": "德国",
+        "flag": "./country_images/GER.png",
+        "score": 0
+      }
+    ],
+    "time": "8月3日 01:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子四分之一决赛, 比赛19",
+    "teams": [
+      {
+        "name": "法国",
+        "flag": "./country_images/FRA.png",
+        "score": 0
+      },
+      {
+        "name": "巴西",
+        "flag": "./country_images/BRA.png",
+        "score": 1
+      }
+    ],
+    "time": "8月3日 03:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子半决赛, 比赛30",
+    "teams": [
+      {
+        "name": "摩洛哥",
+        "flag": "./country_images/MAR.png",
+        "score": 1
+      },
+      {
+        "name": "西班牙",
+        "flag": "./country_images/ESP.png",
+        "score": 2
+      }
+    ],
+    "time": "8月5日 00:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子半决赛, 比赛29",
+    "teams": [
+      {
+        "name": "法国",
+        "flag": "./country_images/FRA.png",
+        "score": 3
+      },
+      {
+        "name": "埃及",
+        "flag": "./country_images/EGY.png",
+        "score": 1
+      }
+    ],
+    "time": "8月5日 03:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子半决赛, 比赛24",
+    "teams": [
+      {
+        "name": "美国",
+        "flag": "./country_images/USA.png",
+        "score": 1
+      },
+      {
+        "name": "德国",
+        "flag": "./country_images/GER.png",
+        "score": 0
+      }
+    ],
+    "time": "8月6日 00:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子半决赛, 比赛23",
+    "teams": [
+      {
+        "name": "巴西",
+        "flag": "./country_images/BRA.png",
+        "score": 4
+      },
+      {
+        "name": "西班牙",
+        "flag": "./country_images/ESP.png",
+        "score": 2
+      }
+    ],
+    "time": "8月6日 03:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子铜牌赛, 比赛31",
+    "teams": [
+      {
+        "name": "埃及",
+        "flag": "./country_images/EGY.png",
+        "score": 0
+      },
+      {
+        "name": "摩洛哥",
+        "flag": "./country_images/MAR.png",
+        "score": 6
+      }
+    ],
+    "time": "8月8日 23:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子铜牌赛, 比赛25",
+    "teams": [
+      {
+        "name": "西班牙",
+        "flag": "./country_images/ESP.png",
+        "score": 0
+      },
+      {
+        "name": "德国",
+        "flag": "./country_images/GER.png",
+        "score": 1
+      }
+    ],
+    "time": "8月9日 21:00",
+    "status": "已结束"
+  },
+  {
+    "info": "男子金牌赛, 比赛32",
+    "teams": [
+      {
+        "name": "法国",
+        "flag": "./country_images/FRA.png",
+        "score": 3
+      },
+      {
+        "name": "西班牙",
+        "flag": "./country_images/ESP.png",
+        "score": 5
+      }
+    ],
+    "time": "8月9日 00:00",
+    "status": "已结束"
+  },
+  {
+    "info": "女子金牌赛, 比赛26",
+    "teams": [
+      {
+        "name": "巴西",
+        "flag": "./country_images/BRA.png",
+        "score": 0
+      },
+      {
+        "name": "美国",
+        "flag": "./country_images/USA.png",
+        "score": 1
+      }
+    ],
+    "time": "8月10日 23:00",
+    "status": "已结束"
+  }
+]

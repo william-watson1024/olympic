@@ -1,0 +1,19 @@
+[
+    {
+        "info": "直播",
+        "teams": [
+            {
+                "name": "404",
+                "flag": "666",
+                "score": 996
+            },
+            {
+                "name": "666",
+                "flag": "666",
+                "score": 996
+            }
+        ],
+        "time": "2月31号",
+        "status": "NOTFOUND"
+    }
+]

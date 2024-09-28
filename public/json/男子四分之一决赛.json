@@ -1,0 +1,70 @@
+[
+    {
+        "info": "男子四分之一决赛, 比赛26",
+        "teams": [
+            {
+                "name": "摩洛哥",
+                "flag": "./country_images/MAR.png",
+                "score": 4
+            },
+            {
+                "name": "美国",
+                "flag": "./country_images/USA.png",
+                "score": 0
+            }
+        ],
+        "time": "8月2日 21:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子四分之一决赛, 比赛28",
+        "teams": [
+            {
+                "name": "日本",
+                "flag": "./country_images/JPN.png",
+                "score": 0
+            },
+            {
+                "name": "西班牙",
+                "flag": "./country_images/ESP.png",
+                "score": 3
+            }
+        ],
+        "time": "8月2日 23:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子四分之一决赛, 比赛27",
+        "teams": [
+            {
+                "name": "埃及",
+                "flag": "./country_images/EGY.png",
+                "score": 1
+            },
+            {
+                "name": "巴拉圭",
+                "flag": "./country_images/PAR.png",
+                "score": 1
+            }
+        ],
+        "time": "8月2日 01:00",
+        "status": "已结束"
+    },
+    {
+        "info": "男子四分之一决赛, 比赛25",
+        "teams": [
+            {
+                "name": "法国",
+                "flag": "./country_images/FRA.png",
+                "score": 1
+            },
+            {
+                "name": "阿根廷",
+                "flag": "./country_images/ARG.png",
+                "score": 0
+            }
+        ],
+        "time": "8月2日 03:00",
+        "status": "已结束"
+    }
+]
