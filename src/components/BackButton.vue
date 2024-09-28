@@ -1,6 +1,6 @@
 <template>
   <div class="back-button-container">
-    <router-link to="/" class="back-button">
+    <router-link to="/matchList" class="back-button"> <!-- Update this path -->
       <img src="@/assets/logo/back.png" alt="Back" class="back-icon" />
     </router-link>
   </div>
