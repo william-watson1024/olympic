@@ -46,8 +46,8 @@ export default {
         { label: 'Medal', route: '/medals' },  // Object with both label and route
         { label: 'Schedule', route: '#' },
         { label: 'News', route: '#' },
-        { label: 'Matchtable', route: '#' },
-        { label: 'More', route: '#' }
+        { label: 'Matchtable', route: '/matchList' },
+        { label: 'More', route: '/more' }
     ],
       activeLink: null
     };
