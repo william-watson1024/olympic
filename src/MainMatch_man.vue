@@ -130,33 +130,6 @@
         </div>
       </div>
     </div>
-
-    <!-- 下部参赛名单表格 -->
-    <div class="players-list">
-        <div class="team-players">
-          <h3>ARG 阿根廷出场球员</h3>
-          <ManPositionTitle class="man-position-title" field1Content="NO" field2Content="姓名" field3Content="位置" />
-          <ManPosition class="man-position"
-            v-for="(player, index) in argPlayers"
-            :key="index"
-            :field1Content="player.no"
-            :field2Content="player.name"
-            :field3Content="player.position"
-          />
-        </div>
-
-        <div class="team-players">
-          <h3>MAR 摩洛哥出场球员</h3>
-          <ManPositionTitle class="man-position-title" field1Content="NO" field2Content="姓名" field3Content="位置" />
-          <ManPosition class="man-position"
-            v-for="(player, index) in marPlayers"
-            :key="index"
-            :field1Content="player.no"
-            :field2Content="player.name"
-            :field3Content="player.position"
-          />
-        </div>
-      </div>
   </div>
 </template>
 
@@ -183,7 +156,7 @@ export default {
   },
   data() {
     return {
-      selectedGroup: "B组",
+      selectedGroup: "男子B组",
       lwz: [],
 
       quarterFinals: [
@@ -295,8 +268,6 @@ export default {
 .body {
   /*background-image: url('./assets/background/foot.jpeg');*/
   background-size: cover;
-  height: 200vh;
-  width: 100vw;
   margin: 0;
 }
 
@@ -318,8 +289,7 @@ export default {
 .top-group {
   padding: 50px;
   border-radius: 10px;
-  width: 80%;
-  
+
 }
 
 .button-group {
@@ -377,7 +347,8 @@ export default {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-
+  flex:center;
+  flex-direction: column;
   padding: 10px;
 }
 
@@ -582,7 +553,6 @@ export default {
 
 .gridLayout {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 每行两个列 */
-    
+    /* grid-template-columns: repeat(3, 1fr); 每行两个列 */
 }
 </style>
