@@ -276,6 +276,7 @@ export default {
   background-size: cover; /* 背景图片覆盖整个容器 */
   background-position: center; /* 背景图片居中 */
   background-attachment: fixed; /* 背景图片固定 */
+  min-height: 100vh;
   padding: 20px;
 }
 
