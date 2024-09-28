@@ -44,7 +44,7 @@ export default {
     return {
       links: [
         { label: 'Medal', route: '/medals' },  // Object with both label and route
-        { label: 'Schedule', route: '#' },
+        { label: 'Schedule', route: '/matchList' },
         { label: 'News', route: '#' },
         { label: 'Matchtable', route: '/matchList' },
         { label: 'More', route: '/more' }

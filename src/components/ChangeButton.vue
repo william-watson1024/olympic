@@ -22,6 +22,7 @@
     methods: {
       setActive(index) {
         this.activeIndex = index;
+        this.$emit('button-selected', index)
       },
     },
   };
