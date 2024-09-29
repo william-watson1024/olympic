@@ -5,6 +5,8 @@ import MedalList from '@/MedalList.vue';
 import MoreDetail from '@/MoreDetail.vue';
 import MatchList from '@/MatchList.vue';
 import MainMatch_man from '@/MainMatch_man.vue';
+import DetailRating from '@/DetailRating.vue';
+import OlympicAthletes from '@/OlympicAthletes.vue';
 
 
 Vue.use(Router);
@@ -33,9 +35,20 @@ export default new Router({
         component: MatchList
     },
     {
-        path: '/news',
+        path: '/mainMatch',
         name: 'MainMatch_mant',
         component: MainMatch_man
+    },
+    {
+        path: '/rating',
+        name: 'DetailRating',
+        component: DetailRating
+
+    },
+    {
+        path: '/Athletes',
+        name: 'OlympicAthletes',
+        component: OlympicAthletes
     }
   ]
 });

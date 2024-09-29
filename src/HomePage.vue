@@ -45,7 +45,7 @@ export default {
       links: [
         { label: 'Medal', route: '/medals' },  // Object with both label and route
         { label: 'Schedule', route: '/matchList' },
-        { label: 'News', route: '/news' },
+        { label: 'Athletes', route: '/Athletes' },
         { label: 'Matchtable', route: '/matchList' },
         { label: 'More', route: '/more' }
     ],
