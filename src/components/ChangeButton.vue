@@ -33,6 +33,7 @@
     display: flex;
     width: 400px; /* 调整菜单宽度 */
     margin: 0 auto;
+    margin-top: 50px;
   }
   
   .menu-item {

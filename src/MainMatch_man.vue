@@ -5,9 +5,23 @@
         <!-- <pre>{{ selectedGroup }}</pre>
         <pre>{{ lwz }}
         </pre> -->
+        <div class="bread">
+          <el-breadcrumb separator="/">
+            <el-breadcrumb-item :to="{ path: '/' }"
+              >HomePage</el-breadcrumb-item
+            >
+            <el-breadcrumb-item
+              ><a href="/matchList">MatchTable</a></el-breadcrumb-item
+            >
+            <el-breadcrumb-item>Match</el-breadcrumb-item>
+          </el-breadcrumb>
+        </div>
 
         <!-- 返回按钮 -->
         <BackButton @click="goBack" class="back-button" />
+        <router-link to="/matchList" class="back-button">
+          <img src="@/assets/logo/back.png" alt="Back" class="back-icon" />
+        </router-link>
 
         <!-- 顶部比赛结果展示 -->
         <div class="match-summary">
@@ -17,38 +31,48 @@
         </div>
         <div class="top-group">
           <!-- 按钮组 -->
-          <ButtonGroup @button-selected="handleSelectedGroup" class="button-group" />
+          <ButtonGroup
+            @button-selected="handleSelectedGroup"
+            class="button-group"
+          />
 
           <!-- 多个评分项 -->
           <!-- 假设这是你的容器元素 -->
-           <div class="gridLayout" v-if="selectedGroup !== null">
-          <div class="rating-items-container">
-            <DetailRatingItem
-              v-for="(match,index) in lwz"
-              :key="index"
-              :matchInfo="match.info"
-              :teams="match.teams"
-              :matchTime="match.time"
-              :matchStatus="match.status"
-            />
-          </div>
+          <div class="gridLayout" v-if="selectedGroup !== null">
+            <div class="rating-items-container">
+              <DetailRatingItem
+                v-for="(match, index) in lwz"
+                :key="index"
+                :matchInfo="match.info"
+                :teams="match.teams"
+                :matchTime="match.time"
+                :matchStatus="match.status"
+                @mat-selected="navigateToMatch"
+              />
+            </div>
           </div>
         </div>
         <!-- 中部比分统计 -->
-        <!-- <div class="score-statistics">
+        <div class="score-statistics">
           <div class="team-result">
-            <img :src="matchs[0].teams[0].flag" alt="ARG" class="team-flag" />
-            <h3 class="cname">{{ matchs[0].teams[0].name }}</h3>
-            <h2 class="score">
-              {{ matchs[0].teams[0].score }} - {{ matchs[0].teams[1].score }}
-            </h2>
-            <h3 class="cname">{{ matchs[0].teams[1].name }}</h3>
-            <img :src="matchs[0].teams[1].flag" alt="MAR" class="team-flag" />
+            <img
+              src="@/assets/background/ARG.png"
+              alt="ARG"
+              class="team-flag"
+            />
+            <h3 class="cname">{{ "阿根廷" }}</h3>
+            <h2 class="score">{{ "1" }} - {{ "2" }}</h2>
+            <h3 class="cname">{{ "摩洛哥" }}</h3>
+            <img
+              src="@/assets/background/MAR.png"
+              alt="MAR"
+              class="team-flag"
+            />
           </div>
           <div class="half-time-score">
-            <h4>半场比分: {{ halfTimeScore }}</h4>
+            <h4>半场比分: {{ "1-1" }}</h4>
           </div>
-        </div> -->
+        </div>
 
         <ChangeButton class="change-button" />
         <!-- 比赛详情 -->
@@ -141,7 +165,7 @@ import DetailRatingItem from "./components/DetailRatingItem.vue";
 //import ManPositionTitle from './components/ManPositionTitle.vue';
 import CombinedMatch from "./components/CombinedMatch.vue";
 import BackButton from "./components/BackButton.vue";
-import axios from 'axios';
+import axios from "axios";
 
 export default {
   name: "MatchPage",
@@ -240,11 +264,18 @@ export default {
         const response = await axios.get(`./json/${this.selectedGroup}.json`);
         this.lwz = response.data;
       } catch (error) {
-        console.error('Error fetching match list:', error);
+        console.error("Error fetching match list:", error);
       }
     },
-    handleSelectedGroup(index){
-        this.selectedGroup = index;
+    navigateToMatch(matDetails) {
+      // Use Vue Router to navigate to the MainMatch_mant page
+      this.$router.push({
+        name: "DetailRating", // Ensure this matches your route name
+        params: { matDetails },
+      });
+    },
+    handleSelectedGroup(index) {
+      this.selectedGroup = index;
     },
     handleMouseOver() {
       this.isHighlighted = true;
@@ -282,7 +313,8 @@ export default {
 
 .back-button {
   position: absolute;
-  top: 20px;
+  padding: auto;
+  top: 60px;
   left: 20px;
   z-index: 10;
 }
@@ -290,7 +322,6 @@ export default {
 .top-group {
   padding: 50px;
   border-radius: 10px;
-
 }
 
 .button-group {
@@ -348,7 +379,7 @@ export default {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  flex:center;
+  flex: center;
   flex-direction: column;
   padding: 10px;
 }
@@ -553,7 +584,48 @@ export default {
 }
 
 .gridLayout {
-    display: grid;
-    /* grid-template-columns: repeat(3, 1fr); 每行两个列 */
+  display: grid;
+  /* grid-template-columns: repeat(3, 1fr); 每行两个列 */
+}
+
+.back-icon {
+  width: 24px;
+  height: auto;
+  margin-right: 8px;
+}
+
+/* 自定义面包屑导航的分隔符样式 */
+.el-breadcrumb__separator {
+  font-size: 16px;
+  color: #999;
+}
+
+/* 自定义面包屑导航项的样式 */
+.el-breadcrumb__item {
+  font-size: 20px;
+  color: #333;
+}
+
+/* 自定义面包屑导航项的链接样式 */
+.el-breadcrumb__item a {
+  color: #333;
+  text-decoration: none;
+}
+
+/* 自定义面包屑导航项的链接悬停样式 */
+.el-breadcrumb__item a:hover {
+  color: #007bff;
+}
+
+/* 自定义面包屑导航项的激活样式 */
+.el-breadcrumb__item.is-active {
+  font-weight: bold;
+}
+
+/* 将面包屑导航定位在页面左上角 */
+.el-breadcrumb {
+  position: absolute;
+  top: 20px;
+  left: 20px;
 }
 </style>

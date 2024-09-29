@@ -1,8 +1,6 @@
 <template>
   <div class="back-button-container">
-    <router-link to="/matchList" class="back-button"> <!-- Update this path -->
-      <img src="@/assets/logo/back.png" alt="Back" class="back-icon" />
-    </router-link>
+    
   </div>
 </template>
 
@@ -19,11 +17,7 @@
   align-items: center;
 }
 
-.back-icon {
-  width: 24px;
-  height: auto;
-  margin-right: 8px;
-}
+
 </style>
 
 <script>

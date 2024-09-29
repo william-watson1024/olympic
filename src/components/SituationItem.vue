@@ -36,7 +36,7 @@ export default {
 <style scoped>
 .container {
   display: flex;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.8);
   box-shadow: 0 0 5px #ccc;
   border-radius: 5px;
   margin-bottom: 5px;

@@ -1,5 +1,5 @@
 <template>
-  <div class="match-container">
+  <div class="match-container" @click="goToMat">
     <!-- 比赛信息 -->
     <div class="match-info">
       <span>{{ matchInfo}}</span>
@@ -28,8 +28,13 @@
 
 <script>
 export default {
-  name: 'MatchComponent',
+  name: 'DetailRating',
+
   props: {
+     matDetails: {
+    type: Object, // Ensure the type matches the expected input
+    required: false,
+    },
     matchInfo: {
       type: String,
       required: true,
@@ -56,6 +61,21 @@ export default {
       required: true,
       default: '已结束'
     }
+  },
+  methods: {
+    goToMat() {
+    this.$router.push({
+      name: 'DetailRating',
+      params: {
+        matDetails: {
+          matchInfo: this.matchInfo,
+          teams: this.teams,
+          matchTime: this.matchTime,
+          matchStatus: this.matchStatus,
+        }
+      }
+    });
+    },
   }
 }
 </script>
@@ -109,6 +129,7 @@ export default {
 
 .score {
   font-weight: bold;
+  font-size: 20px;
   margin-left: 5px;
 }
 
