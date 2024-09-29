@@ -15,8 +15,10 @@
                                 <img src="@/assets/logo/collect.png" alt="collect.png" class="icon" />
                                 <img src="@/assets/logo/more.png" alt="more.png" class="icon" />
                             </div>
-                        </div>
+                        </div >
+                        <div class="event-details" style="text-align: left;">
                         <div class="event-details">{{ this.event }}</div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -161,6 +163,7 @@ export default {
 }
 
 .event-details {
+    
     font-weight: normal;
     font-size: 0.875em;
     /* 正常小字 */
