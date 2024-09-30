@@ -124,10 +124,10 @@
               <div class="final-label">决赛</div>
               <CombinedMatch
                 :Match="edCountry === '法国'"
-                upperFlagSrc="././/public/country_images/FRA.png"
+                upperFlagSrc="./country_images/FRA.png"
                 upperCountryName="法国"
                 :upperScore="3"
-                lowerFlagSrc="././/public/country_images/ESP.png"
+                lowerFlagSrc="./country_images/ESP.png"
                 lowerCountryName="西班牙"
                 :lowerScore="5"
                 defaultColor="#fbfd8f"
@@ -139,10 +139,10 @@
               <div class="bronze-label">铜牌赛</div>
               <CombinedMatch
                 :Match="edCountry === '埃及'"
-                upperFlagSrc="././/public/country_images/EGY.png"
+                upperFlagSrc="./country_images/EGY.png"
                 upperCountryName="埃及"
                 :upperScore="0"
-                lowerFlagSrc="././/public/country_images/MAR.png"
+                lowerFlagSrc="./country_images/MAR.png"
                 lowerCountryName="摩洛哥"
                 :lowerScore="6"
                 defaultColor="gold"
@@ -185,54 +185,54 @@ export default {
 
       quarterFinals: [
         {
-          upperFlagSrc: "././/public/country_images/FRA.png",
+          upperFlagSrc: "./country_images/FRA.png",
           upperCountryName: "法国",
           upperScore: 1,
-          lowerFlagSrc: "././/public/country_images/ARG.png",
+          lowerFlagSrc: "./country_images/ARG.png",
           lowerCountryName: "阿根廷",
           lowerScore: 0,
         },
         {
-          upperFlagSrc: "././/public/country_images/EGY.png",
+          upperFlagSrc: "./country_images/EGY.png",
           upperCountryName: "埃及",
           upperScore: "1(5)",
-          lowerFlagSrc: "././/public/country_images/PAR.png",
+          lowerFlagSrc: "./country_images/PAR.png",
           lowerCountryName: "巴拉圭",
           lowerScore: "1(4)",
           penalty: true,
           penaltyScore: "(5):(4)",
         },
         {
-          upperFlagSrc: "././/public/country_images/MAR.png",
+          upperFlagSrc: "./country_images/MAR.png",
           upperCountryName: "摩洛哥",
           upperScore: 4,
-          lowerFlagSrc: "././/public/country_images/USA.png",
+          lowerFlagSrc: "./country_images/USA.png",
           lowerCountryName: "美国",
           lowerScore: 0,
         },
         {
-          upperFlagSrc: "././/public/country_images/JPN.png",
+          upperFlagSrc: "./country_images/JPN.png",
           upperCountryName: "日本",
           upperScore: 0,
-          lowerFlagSrc: "././/public/country_images/ESP.png",
+          lowerFlagSrc: "./country_images/ESP.png",
           lowerCountryName: "西班牙",
           lowerScore: 3,
         },
       ],
       semiFinals: [
         {
-          upperFlagSrc: "././/public/country_images/FRA.png",
+          upperFlagSrc: "./country_images/FRA.png",
           upperCountryName: "法国",
           upperScore: 3,
-          lowerFlagSrc: "././/public/country_images/EGY.png",
+          lowerFlagSrc: "./country_images/EGY.png",
           lowerCountryName: "埃及",
           lowerScore: 1,
         },
         {
-          upperFlagSrc: "././/public/country_images/MAR.png",
+          upperFlagSrc: "./country_images/MAR.png",
           upperCountryName: "摩洛哥",
           upperScore: 1,
-          lowerFlagSrc: "././/public/country_images/ESP.png",
+          lowerFlagSrc: "./country_images/ESP.png",
           lowerCountryName: "西班牙",
           lowerScore: 2,
         },
